@@ -1,0 +1,4166 @@
+
+Divest Control, Increase Competence
+Here’s something to try at your next leadership meeting or corporate off-site.
+
+1. Hand out a bunch of four-by-six cards and markers.
+2. Start with this sentence completion: Our company would be
+more effective if [level] management could make decisions
+about [subject]. You specify the level of management but
+ask the group to fill in the subjects.
+3. Once you have the set of cards, post them on the wall, and
+go on break. Let people mill around looking at what they’ve
+written.
+4. Down-select to a couple subjects.
+5. Ask this question: What, technically, do the people at this
+level of management need to know in order to make that
+decision?
+6. Again, answer on the cards, post them, and go on break.
+
+
+
+
+Vivaaerobus:
+Enablepass$2021
+
+
+Ox es prioridad, deseable terminar 1 semana antes
+delay microsoft 3 semanas
+
+
+
+
+martha:
+contact center detenido por fecha de capacitacion. pejdiente con ALejandro
+
+
+Equipo Akky
+
+Perfecto Hernández Hernández <hernandez_perfecto@akky.mx>; David Eduardo Mata Canché <david.mata@akky.mx>; Lorna Polet Martínez Mancilla <polet.martinez@akky.mx>; Jair Eduardo Cruz Hernández <jair.cruz@akky.mx>; Jorge Alberto Palomo Maldonado <jpalomo@akky.mx>; Jorge Federico Muñiz Hagelsieb <jorgem@akky.mx>; Alfredo Sanchez Vega <alfsan.vega@akky.mx>;
+4 devs
+3 testers
+
+
+4 años
+
+proyectos 2 activos y
+
+ambientes no estan actualizados
+ID volver a cargar los projectos
+falta de analisis y definicion
+cambian todo el alcance
+multiproyctos
+M
+Os
+C
+burocracia
+
+scrum
+Definir historia, puntuar y asignar antes del planning
+
+daily, retro, review planning
+meet review a medio sprint
+
+stopper de lado de scrum
+
+daily
+
+
+Daniel Gastelum - coordinar liberacion de update contact center
+contact center de sorteos ahora va a atender todas las solicitudes
+
+
+plan desde abril
+cambio de conmutador
+el plan era que saliera primero el area de hector garza
+ahora va a sakir primero el equipo de ventas de Os hace 1 mes
+conexiones de salesforce victor se comprometio a esta semana tenerlas 
+miercoles pruebas finales
+minicapacitacion express de como funciona la herramienta
+Centerware es la herramienta
+Ya se agendo con el proveedor actual hacerlo el dia 13 el redireccionamiento
+pendiente: llamadas predictivas un ejemplo del archivo
+
+David es la persona de sorteos 
+en teoria el 14 de agosto salir a produccion
+
+85%
+
+
+
+equipo de violeta:
+Jorge Antonio
+Marco
+Diego
+Erick
+
+pendiente mañana el dato de una fecha estimada de entrega.
+
+1.	Daylis: apoyo en compartir pantalla, se platica avance y stoppers para los desarrolladores. (Todos los días 9:30 a 9:45) 
+2.	Apoyo en seguimiento de historias detenidas. (PR-1292 y PR-1348)
+3.	Seguimiento a la historia PR-1285: en cuanto desarrollo termine su tarea, se debe validar la funcionalidad. 
+4.	Envío de recordatorio para la generación de historias próximo sprint. (adjunto seguimiento)
+5.	Seguimiento en PR-1366 en caso de que todavía se encuentren en espera de comentarios por parte de enkoder, enviar recordatorio. 
+6.	Si se encuentran historias en pendiente de vobo comentar con el equipo para que pase a desarrollo listo. 
+7.	Seguimiento enkorder – Diego Ortiz (adjunto seguimiento)
+8.	Portafolio Raspberry: en base a la revisión de hoy realizar modificaciones al formato en caso de que soliciten. 
+9.	Prioridad del SPRINT 70: Deducible $75,000 (cuestionar días estimados) y Base de Datos SGMM Prestación y Voluntario.
+10.	PR: 1359 apoyo a Diego Ortiz para la modificación de historia. 
+
+
+
+enviar recordatori ode historias para el proximo sprint (71) 
+
+
+
+Jueves 10 Agosto
+PR-1292 Y PR-1348 pendiente de VoBo, ayer Carlos no pudo revisarlo por problemas con la maquina pero hoy se resuelve
+
+Viernes 11 Agosto:
+PR-1366 listo para testing, comenta Diego que la historia la atiende Rommel en el transcurso de la tarde (No estuvo Rommel en el Daily)
+
+
+
+1366 rommel
+
+
+Desing thinking:
+Cuando se sienta abrumado por un dominio complejo, pruebe algunos de estos métodos para obtener más información:
+
+
+La próxima vez que revise una idea, diseño, entregable, etc., pregúntese qué pensaría el usuario al respecto. 
+Luego realice la actividad de los 5 porqués para profundizar más.
+
+¿Tiene preguntas? Realice una investigación de escritorio (puede aprender mucho sobre la experiencia de una persona en Internet), 
+o entreviste a una parte interesada o a un experto en la materia para comenzar a controlar las cosas antes de hablar con los usuarios.
+
+Muchos usuarios documentarán sus experiencias y las compartirán en línea, lo que puede ser una excelente manera de observar de forma remota.
+
+
+“Si al principio la idea no es absurda, entonces no hay esperanza para ella”. - Albert Einstein
+
+1331 comenta Jorge de subir story points de 5 a 8 ya que detecta que la actividad es un poco mas compleja
+
+liberacion de cackend y frontend y bugs 
+Pendientes 3 actividades en VoBo pero hoy las termina Carlos (Continua con problemas con su laptop)
+PR-1353 Mensaje Informativo en el Home al iniciar sesion se pasa a Desarrollo Listo.
+Se espera que hoy por la tarde Erick agregue las validaciones del nuevo deducible.
+
+
+Carlos avanza actividades 1348 y 1292 a Desarrollo Listo
+Rommel comenta que el review/retro debe ser el 22 de Agosto y no el 18
+
+---------------------------------------------------
+Retrospectiva
+Estructura liberadora TRIZ
+Que debemos hacer para obtener el peor resultado posible?
+
+Que de eso hacemos o estamos a punto de hacer?
+
+Felicitaciones
+
+Retro bob esponja.
+
+Evil List: Things within the team’s workflow or process that aren’t helping the team to achieve their goals and should be stopped
+
+What user value have we released? What's the number of days since our last user engagement, or what nice direct quotes can we playback here?
+Que valor le entregamos a nuestros usuarios? Hace cuantos dias fue nuestro ultimo contacto con el usuario, que comentarios obtuvimos?
+
+What surprises did we encounter along the way during our iteration/sprint/cadence?
+Que sorpresas encontramos durante el Sprint actual?
+
+The future is an unknown and scary place. What are some of the things you are hopeful or concerned about?
+---------------------------------------------
+Desing thinking
+
+There are a few specific moments where everyone on the team needs to be aligned:
+
+1. Starting a new project or initiative. 
+	Answer questions like: Who will be the users and stakeholders? What experience are we trying to improve and why?
+2. Deciding as a team on a future experience for your users. 
+	Answer questions like: What do we think our users need to be successful? How are we going to serve those needs?
+3. Reviewing progress as you deliver. 
+	Answer questions like: Do we successfully deliver value to our users? Are we still aligned as a team?
+
+
+“Un problema bien planteado es un problema medio resuelto.” -Charles F. Kettering
+
+Use the Principles
+A focus on user outcomes: Problem statements should always include a user and their current problem—not yours.
+
+Restless reinvention: Problem statements should be flexible and iterative as you learn more about your users and their current state.
+
+Diverse Empowered Teams: Problem statements should be written with all members of your team who bring relevant expertise.
+
+
+
+herramientas
+
+miro
+
+Gestion de proyectos:
+que? (problematica)
+como vas a salucionar el problema?
+que plan tienes?
+como sbaes que el proyecto esta terminado?
+como salio el proyecto?
+
+
+
+Gilberto Luna lider de tec venues.
+
+
+Objetivo
+draft de even pro
+sergio
+
+
+Cuales vamos a atacar primero?
+Quien?
+criterios de aceptacion?
+
+Mandar lista de regiones de los campus a proveedor EventPro (Carrie) para segmentarlos (Gilberto)
+Establecer una meta por campus (definir quién) - 
+
+1. Carta de bienvenida
+
+2. presentacion la trae agencia
+
+3. mas o menos ahi va
+
+4. proceso comercial (Revisar) (Lo estaban haciendo entre todos)
+
+5. Speech de ventas vacio
+
+Lider:
+
+1. Carta de bienvenida - editada y cargada
+
+2. presentacion la trae agencia
+
+3. mas o menos ahi va
+
+4. proceso comercial (Revisar)
+
+5. Speech de ventas vacio
+
+
+
+
+
+
+
+
+5. descargo
+23. seleccionar
+
+
+
+
+
+
+Me parece bien agrupar las tareas
+Solo que ayer no solo se avanzó en los kits
+En temas de comunicación, tuvimos la junta con EXATEC, con el VP
+Ya fueron las 4 reuniones, la de tecstore pues no es necesaria porque es mismo Jordi (Jorge espinoza puig)
+En el project, porfa agrupa las tareas, así como pusiste lo del kit, otro grupo de tareas de comunicación, etc
+
+En la de comunicación, agrega una tarea de “Gestionar con Luisa (del equipo de Oscar) presentación a generalistas”
+
+
+
+Comunicacion
+“Gestionar con Luisa (del equipo de Oscar) presentación a generalistas”
+
+Agrega un grupo de tareas que sea compensación, y agrega la tarea “Propuesta de compensación para DSO”
+
+
+
+Luisa Fernanda Basaldua Martinez
+Colaboradopres ya estan
+
+
+Personalizar la carta a los Lideres
+
+Speech de venta
+Presentacion
+
+Kits TecVenues:
+Done:
+Carta de Bienvenida Asesor comercial (Gilberto)
+Presentacion para el cliente Final (Externo)
+Pendiente:
+Personalizar la carta a los Lideres (Gilberto)
+Speech de venta (Gilberto)
+
+Golive Eventpro:
+Done:
+Mandar lista de regiones de los campus a proveedor EventPro (Carrie) para segmentarlos (Gilberto)
+
+Compensacion:
+Pendiente:
+Propuesta de compensacion para DSO (Oscar)
+carta doc 3
+luisa (como poner a bordo a los generalistas)
+Presentacion para Generalistas (Luisa)
+
+
+Guia para vendedores.
+
+Revisar textos en plataforma de EventPro
+
+agregarlo al correo
+
+
+eduardo.gonzalez@tec.mx;
+Retroalimentación proceso con DSO (Eduardo) 
+hay que pedirle a Lalo que nos pase un listado de los DSO por Campus:
+
+Marioli champion venues
+Nora proveedores TecVentures
+
+agregar en el project:
+
+
+presentacion de ventas
+adicionales flyers
+L y miercoles reunir 
+avento extraordinario.
+
+•	Retroalimentación proceso con DSO (Eduardo) 
+
+todas las 
+
+
+21 de agosto:
+comentarios de hernan:
+seguimiento semanal de tabla de potencial kpi
+pipeline de ventas
+ejercicio para saber el potencial
+
+x campus cuantos venues
+cuanto es el potencial de todo tec v
+cuantos venuas y cuantos dias
+
+ahorita disponibilidad en meses
+
+que dia sienta
+o, en su defecto que dias del mes no se pueden tocar
+
+gil comparte a eduardo listado de venues con mas potencial
+
+cuando podriamos platicar con los responsables:
+responsable con nombre y apellido x campus:
+campus grandes hay responsables de eventos
+eduardo pasa la lista y hace la convocatoria
+
+caravana de presentacion
+fechas?
+
+objetivo de la sesion
+Luis raul presenta
+luego nosotros
+invtar al de compensaciones
+Jessica Rio es de compensaciones del tec
+
+coordinar con Jordi agenda y material
+
+
+juntas ya la proxima semana.
+
+
+kit consolidado para los generalistas
+Luisa
+la carta la hace el y erick
+
+compensaciones con Oscar
+pedirle que lo vea con
+costeado, firmado por erick y jessica de compensaciones.
+
+armas plan de compensacion y comunicarlo a todes
+
+
+esquema de reconomiciemntos de ventas para DSO
+
+metas:
+jordi, con jaime dorantes y validadas con Hernan y v
+
+
+agenda de conversaciones
+carruceles de ventas
+
+eduardo tentativo miercoles y jueves agenda capacitaciones.
+
+espacios de mediano y largo plazo que esta disponible
+
+
+documentar el espacio palapa vakkeakto,
+que sucedio?
+abdandono
+caso de negocio si se puede rehabilitar
+
+
+
+tec milenio?
+
+high point
+quien es el lider?
+velocidad
+levantamiento completo
+
+ver el plan con fechas.
+plataforma con todos los venues
+luego cuando el 100% de los horarios.
+
+presentacion Luis 
+
+checar con jordi
+cecilia checa la agenda envia el meetimg
+y el lider reenvia el meeting 
+
+
+Junta 21 Ago, 4 pm
+Eduardo confirma hoy quienes son los DSO de campus grandes
+eduardo con respecto a la capacitacion:
+el proceso
+el habilitador
+mostrar que es lo basico
+(intro, guia, actividades, agregar eventos ya programados)
+
+
+Kits TecVenues:
+Presentacion de venta - Finalizado
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EeAz-TLX5nNLr8huhXRN8HoBLv5w8ll2yJLrnicfo11nlA?e=bHbfDt
+
+Eventpro:
+Actualizar calendario de eventos (Gilberto) - En proceso
+
+Comunicacion:
+Agendar capacitacion con DSO (Eduardo) - Finalizado
+Horarios: Jueves - viernes
+9:00am - 10:30am
+3:30pm - 5:00pm
+Enviar listado de DSO por campus (Eduardo) - En proceso
+Agendar presentacion con negocios (VEC, ExaTec, LIFE, Tec Store, DSO)(Cecilia) - En proceso
+
+
+[4:33 PM] Erasmo Karlo Nuñez Ortiz
+
+Agenda de la capacitación: 
+-Intro (quién?)
+-Proceso general
+-Guía para usuarios (como contexto)
+
+Agenda: 1) Bloquear espacios para eventos, 2) visualizar/autorizar solicitudes de reserva
+
+intro: eduardo
+capacitacion: gil
+
+Solicitar Usuarios para Eventpro
+
+
+Kits TecVenues:
+•	  Presentación de venta – Finalizado
+•	  “Flyers” para ventas - Finalizado
+
+Plataforma EventPro:
+•	Actualizar calendario de eventos (Gilberto) - En proceso
+•	Preparar capacitación DSO (gilberto) – En proceso
+
+Comunicación:
+•	Agendar capacitación con DSO (Eduardo) - Finalizado
+Horarios: jueves - viernes
+9:00am - 10:30am
+3:30pm - 5:00pm
+•	Enviar listado de DSO por campus (Eduardo) - En proceso
+•	Agendar capacitación con negocios (VEC, ExaTec, LIFE, Tec Store, DSO) (Cecilia) - En proceso
+
+
+buscar a hector y a erick
+
+TecVenues:
+14 Octbubre
+
+Licencias extras:
+7 licencias disponibles
+29 personas DSO x campus
+8962.50 total pasado del primer mes
+$2,250 de 30 licencias xtra
+40 licencias totales
+
+nuevo total: 11212.5
+
+
+
+de,o day:
+jorge
+como lo hace
+
+
+meeting con responsable:
+3 slides por proyecto
+tabla de painpoints, mejoras, medicion de mejora, beneficios al publico.
+
+
+agendar una semana antes el demo day
+si hernan y JJ confirman, el resto no problem se agenda en esa fecha, a ellos les preguntas
+tacos villa de santiago, jj no le gustan de huevo
+sala agile center en campus norte, no esta chida no hay projectoy etc etc
+
+buscar a jessica y a gerardo pára avances de sitio sorteo tec ylanding tec salud
+
+como les han ido en el ultimo demo day?
+
+mandar correo y luego seguir el contacto
+
+
+sumar a event pro gil 3 slides
+que es?
+demostracion rapida
+tablita
+
+
+
+Kits TecVenues:
+•	  Actualizacion de presentacion para ventas(Cecilia) – Finalizado
+•	 Actualizacion de Flyers para ventas (Cecilia) - En proceso
+
+Plataforma EventPro:
+•	onepage / caso de negocio de las 30 licencias extra de event pro (Karlo) - Finalizado
+•	Preparar capacitación DSO (gilberto) – Finalizado
+•	Actualizar calendario de eventos centrales TecVenues (Gilberto/Gerardo) - En proceso
+•	Capacitaciones EventPro inician mañana Jueves 9:00 am y 3:30 pm
+
+Compensaciones:
+Update de compensaciones (Oscar) - En proceso
+
+HighPoint International School:
+•	Solicitar inventario de venues por secundaria (Karlo) - En proceso
+
+Ventas:
+•	La VEC recibio luz verde por parte de Jorge Blando para ofrecer los servicios.
+•	Prospecto de Campus Laguna - Karla Escobedo (Gilberto) - En progreso
+
+po deberian ser martha y oswaldo
+
+
+Curva de aprendizaje mas lenta 
+menor tiempo de pruebas
+
+
+
+mejor tienda akky
+coordinar con enkoder 
+SEO
+fecha? es problematico, no depende de incubeta y hector, si no de enkoder
+entregable de hector con felipe seria en septiembre
+
+entregable finales
+
+
+Generación de la idea
+Viabilidad
+Define los objetivos y resultados esperados 
+Identificar enfoque de trabajo (agile o waterfall)
+Planeación
+Desarrollo
+Pruebas y Control de Calidad
+Despliegue
+Entrega y evaluación
+Operación y Mejora
+cierre
+
+
+23 de agosto 2023
+
+Kits TecVenues:
+
+•	  Actualizar presentacion y Flyers de venta(Cecilia y Karlo) – Finalizado
+
+
+intro 15 minutos
+objetivo? porque lo hacemos?
+9:25 todavia no empezamos con el contenido
+9:48 ya con la plataforma
+
+
+pendiente:
+comentar reglas
+indice
+definir un espacio para dudas
+
+si acaso overview de la instalacion
+preguntar si leyeron el correo y lo pudieron instalar?
+
+problemas tecnicos
+
+
+Nombre
+contacto
+quiien trajo al cliente
+info basica (correo, nombre, numero etc)
+
+
+
+Capacitación por parte del proveedor (agendada 28, 29 y 30 de agosto)
+Mover al equipo de servicio al nuevo contact center (mañana se movería solo al equipo de ventas)
+Realizar la portabilidad de los números telefónicos
+Dar de baja el contrato de Akky con net2phone
+
+User Karlo EventPro:
+knunez_045531
+123Karlo*
+
+
+sesion tarde: 6
+
+
+Preguntas frecuentes (Karlo, Cecilia) - Finalizado
+https://fefmx.sharepoint.com/:w:/s/TecVenues/EcsP9lkcmapNojR-_jaTBKkBzuisy3gnb4Ae5GAGLKU78w?e=hj5cTE
+
+
+24 de agosto:
+
+Kits TecVenues:
+•	 Actualizacion de Flyers para ventas (Cecilia, Karlo) - Finalizado
+	•	Venues
+	•	Club 16
+	•	Akky Consulting
+•	Documento Preguntas Frecuentes(Cecilia, Karlo) - Finalizado
+https://fefmx.sharepoint.com/:w:/s/TecVenues/EcsP9lkcmapNojR-_jaTBKkBzuisy3gnb4Ae5GAGLKU78w?e=TAEXby
+	
+Plataforma EventPro:
+•	capacitación DSO Jueves (gilberto) – Finalizado
+https://tecmx-my.sharepoint.com/:v:/g/personal/eduardo_gonzalez_tec_mx/ESWMPWShbDBJlghdFryhv8IBwMPlANGORhbfz4aWjvNuGg
+•	Actualizar calendario de eventos centrales TecVenues (Gilberto/Gerardo) - En proceso
+
+HighPoint International School:
+Reunión con Ernesto Calvillo agendada (Cecy) - Terminada
+
+Compensaciones:
+Update Cartas de compensaciones (Oscar) - Finalizado
+
+Ventas:
+•	Cotizacion de Campus Laguna - Karla Escobedo (Gilberto) - Finalizado
+
+aqui podran encontrar el repositorio donde se encuentran los kits de ventas
+https://fefmx.sharepoint.com/:f:/s/TecVenues/EmOVBsHQihlBtJn49vJ-OzkBkHrSYWiXHeiY4j1G-VduAg?e=PJNOxA
+
+
+25 de agosto:
+
+Kits TecVenues:
+•	Proceso comercial Club-16 (Cecilia, Karlo) - Finalizado
+https://fefmx.sharepoint.com/:w:/s/TecVenues/Ea4hCCDWgR5EkcMBc-YfVvgBcd7-6LNZwl9XbXk7iBxVPg?e=cgDm5c
+•	Guia de para administradores, Reset de usuarios(Mariano) - Finalizado
+https://fefmx.sharepoint.com/:p:/s/TecVenues/EaKS9V2KHPBFmjYB4TyVok0BWotpKeOMAZUeYyWxXYQArg?e=fmtn7o
+•	Proceso Comercial Akky Consulting - En proceso
+
+
+Plataforma EventPro:
+•	Asigancion de 7 Cuentas disponibles para Champions DSO(Karlo) - Finalizado
+		Liliana Alicia Campos Garza - Campus Monterrey
+		Sylvia Maria Slas Pérez - Campus CCM
+		Pedro Javier García Martínez - Campus Puebla
+		Nancy Yareli Peña Camacho - Prepas Monterrey
+		Ana Laura Sánchez Casas - Campus Toluca y Metepec
+		Genaro Salcedo Palma - Campus Guadalajara
+		Claudia Elena Medina Reyes - Campus Saltillo
+•	Capacitaciónes DSO Viernes (gilberto) – En pausa
+	Se reagenda capacitacion, en espera de de las licencias pendientes por parte del proveedor. 
+•	Actualizar calendario de eventos centrales TecVenues (Gilberto/Gerardo) - En proceso
+
+Avance DSO:
+•	Habilitación tecnológica: 7/30
+	•	Tienen la herramienta 
+	•	Están capacitados
+Disponibilidad actualizada (0%) - En Proceso
+
+Ventas:
+Se contactaron 31 VP's del area de Talento, respuesta con punto de contacto al momento 12/31 - En proceso (Gilberto)
+
+aqui podran encontrar el repositorio donde se encuentran los kits de ventas
+https://fefmx.sharepoint.com/:f:/s/TecVenues/EmOVBsHQihlBtJn49vJ-OzkBkHrSYWiXHeiY4j1G-VduAg?e=PJNOxA
+
+
+
+
+
+
+cambiar la liga en "compensacion adicional" carta de biemvenida
+
+
+
+EXATEC
+
+
+replicar proceso comercial general y de tecvenues VEC en todas
+
+en carta de asesor comercial 
+en "Plan Estrategico 2015" debe venir un link a 
+https://tec.mx/es/planestrategico2025
+
+en "compensacion adicional"
+va el link a la cata de compensacion 
+
+en "ruta TEAMS" agregar el link a la carpeta de asesor comercial respectiva
+
+
+
+
+[12:01 PM] Erasmo Karlo Nuñez Ortiz
+
+Siguiente tarea: checa que cuadren líder con asesor, en cuanto a las cartas porfa. Ej. líder vec y asesor vec, traen diferente la tabla de contactos, la correcta es la del asesor vec
+
+
+En tu rol de Líder, necesitamos de tu apoyo para motivar a tu equipo a participar y potenciar aún más nuestro impacto en beneficio de los públicos a los que servimos. Te invitamos a incluir estos servicios como alternativa para que tus clientes logren sus objetivos y tu obtengas una compensación adicional.
+
+
+
+
+
+
+
+
+
+
+
+2 y 3 carpeta con cliente
+general 
+
+
+Kit de VENTA para el Asesor ExaTec
+00
+02
+03
+
+Kit para el Asesor ExaTec
+00
+01
+03
+04
+05
+
+
+Kit de VENTA para el Asesor TecStore
+Kit para el Asesor TecStore
+
+Agregar lista de contactos DSO a Kits para el Asesor
+
+
+
+
+01.b Presentación de Venta Club16
+01.c Presentación de Venta Akky Consulting
+
+02.a Flyer Venues
+02.b Flyer Club16
+02.c Flyer Akky Consulting
+
+VEC - Jorge Blando solicitó tener primero una con sus reportes será el 4 de sept horario por confirmar
+EXATEC - Gaspar y Claudia tendrán sesión con Alejandro Poiré, nos confirmarán posterior a esa sesión cuando podremos comuncar a los asesores
+LiFE – Luis Raúl nos dirigrió con Adriana Gámez de su equipo para coordinar la sesión con los líderes como primer paso, mañana me confirma la fecha para ello.
+
+
+28 de septiembre
+Kits TecVenues:
+•	Actualizar version de carta de Bienvenida (Daniel/Karlo) - Finalizado
+•	Proceso Comercial Akky Consulting (Fernando) - Finalizado
+•	Actualizar presentación y Flyers de ventas (Cecilia) - En Proceso
+•	Sesion con Asesores de ventas (Cecilia) - En proceso
+	•	VEC - Pendiente junta previa el 4 de septiembre, confirman fecha y hora posterior a esa sesión
+	•	ExaTec - Gaspar y Claudia tendrán sesión con Alejandro Poiré, confirman fecha y hora posterior a esa sesión
+	•	LiFE – Adriana Gamez pendiente confirmar fecha y hora
+•	Material para capacitacion Carlos, Sergio y Antonio (Cecilia) - En proceso 	
+
+Plataforma EventPro:
+•	Actualizar proceso para alta de eventos (Karlo) - En proceso
+•	Preparar correo de usuarios para actualizar la disponibilidad de los venues (Karlo/Daniel)
+•	Solicitar 9 licencias de administrador EventPro (Karlo) - En espera de proveedor
+•	Capacitaciones DSO viernes (gilberto) – En pausa
+    •	Se reagenda capacitación, en espera de las licencias pendientes por parte del proveedor
+•	Actualizar calendario de eventos centrales TecVenues (Gilberto/Gerardo) - En proceso
+
+Avance DSO:
+•	Habilitación tecnológica:
+	•	licencias 7/30
+Ventas:
+•	Cotizacion Cliente Liverpool prepa EGS(Gilberto) - En proceso
+•	Jueves visita de ERIAC capital humano a campus MTY (Gilberto) - En proceso
+
+Compensaciones
+•	Generación del documento de todas las compensaciones para firma de Erik Pascual y Yessi (Oscar) - En proceso
+
+--------------------------------------
+demo day
+Speech de comunicacion
+gustavofarfan@akky.mx
+ana.rojasg@akky.mx
+
+
+
+reset contraseñas eventpro
+a silvia no considerarla
+
+
+User: LCampos_045531
+password: 123Liliana
+
+User: JGarcia_045531
+Password: 123Javier
+
+User: NPena_045531
+Password: 123Nancy
+
+User: ASanchez_045531
+Password: An4Sanch3z123
+
+User: GSalcedo_045531
+Password: 123Genaro
+
+User: CMedina_045531
+Password: 123Claudia
+
+
+
+
+
+sesion 1:00 pm
+idicador de disponibilidad de espacios
+
+replicar cartas de bienvenida
+
+Enviar a carrie Venues de Tec Milenio
+
+Presentacion con Lider Tec Milenio
+Juan Arenas
+Julio Peña
+
+El miercoles fecha limite para cargar disponibilidad 
+reporte L-M-V
+
+ventas:
+evento liverpool prepa garza sada
+vivaaerobus
+jueves- visita a campus mty asociasion capital humano, centro de congresos
+
+
+mapear el proceso
+
+
+
+
+liga dar de alta usuario gratuito eventpro
+https://connect.eventpro.net/ep/client/DB045531
+clientID: DB045531
+
+Ausencia:
+Gerardo Javier Rodríguez Reyes
+Jorge Espinosa Puig
+Hernán García González
+
+
+
+Buen día Liliana,
+
+Como actualización a tu cuenta EventPro, te comparto el usuario y contraseña que para dar de alta eventos:
+
+User: PLanda_045531
+password: Perla123*
+
+
+Guías: 
+•	  04. Cómo gestionar la Disponibilidad de Espacios.pdf
+•	GRABACIÓN DE CAPACITACIÓN
+
+Favor de confirmarme una vez que logres tener acceso a tu cuenta por favor, 
+así mismo solicitar tu apoyo con la actualización de la disponibilidad de los venues en la plataforma,
+
+Cualquier duda estamos para servirte,
+Saludos!
+
+
+👉
+
+
+
+
+
+lalo hernan y karlo
+
+
+
+martes 5 a las 4 
+
+
+Gilberto Luna	gilberto.luna@nic.mx
+Gerardo Rodríguez	gjrodriguez@tec.mx
+
+
+
+
+
+
+Validar relevancia pagina Tec Venues
+
+junta con gerardo referente a palcos
+
+
+
+
+cuentas admin event pro
+
+Claudia: pudo entrar y ya cambio la contraseña
+
+
+
+HEB contesto el mail
+Axtel
+Terniun con cita para el 18 de septiembre. 
+RAGASA 
+Farmacias del ahorro
+Xignux
+Mattel
+Mabe
+Jose Cuervo
+Vasf
+
+Liverpool presupuesto 
+
+https://fefmx.sharepoint.com/:w:/s/TecVenues/EUqZSs2KRh1Oj1VOmiHwuiQBujY6S5FA-NjyQCfegjV5Yw?e=Cl40wG
+
+
+28 de septiembre
+Kits TecVenues:
+•	Proceso Comercial Akky Consulting (Fernando) - Finalizado
+•	Actualizar presentación y Flyers de ventas (Cecilia) - En Proceso
+•	Sesion con Asesores de ventas (Cecilia) - En proceso
+	•	VEC - Pendiente junta previa el 4 de septiembre, Pendiente confirmar fecha
+	•	ExaTec - Gaspar y Claudia tendrán sesión con Alejandro Poiré, Pendiente confirmar fecha
+	•	LiFE – Adriana Gamez pendiente confirmar fecha.
+•	Material para capacitacion Carlos, Sergio y Antonio (Cecilia) - En proceso 	
+
+Plataforma EventPro:
+•	Actualizar proceso para alta de eventos (Karlo) - En proceso
+•	Preparar correo de usuarios para actualizar la disponibilidad de los venues (Karlo/Daniel - Finalizado
+•	Solicitar 9 licencias de administrador EventPro (Karlo) - En espera de proveedor
+•	Capacitaciones DSO viernes (gilberto) – En pausa
+    •	Se reagenda capacitación, en espera de las licencias pendientes por parte del proveedor
+•	Actualizar calendario de eventos centrales TecVenues (Gilberto/Gerardo) - En proceso
+
+Avance DSO:
+•	Habilitación tecnológica:
+	•	licencias 8/16
+Ventas:
+•	Cotizacion Cliente Liverpool prepa EGS(Gilberto) - En proceso
+•	Jueves visita de ERIAC capital humano a campus MTY (Gilberto) - En proceso
+
+Palcos:
+•	Prueba de sonido sala pasión, fecha tentativa 30 Agosto 2023 - En proceso
+    Se quitaron las ventanas, se va a revisar la calidad de sonido en la sala simulando un evento.
+•	Solicitar cotización de catering para alimentos - En proceso
+•	Boletos: Consultar viabilidad para utilizar la misma boletera de borregos - En Proceso
+
+Compensaciones:
+•	Generación del documento de todas las compensaciones para firma de Erik Pascual y Yessi (Oscar) - En proceso
+
+
+
+
+Palcos
+Prueba 
+
+propuesta era de 1 millon 200
+y termino en 3 millones
+
+
+prueba de sonido entre hoy y mañana
+sala pasion quitar ventanas
+Prueba de sonido sala pasion, fecha tentativa 30 Agosto 2023
+	Se quitaron las ventanas, se va a revisar la calidad de sonido en la sala simulando un evento.
+
+Solicitar cotizacion de catering para alimentos - En proceso
+enrre hoy y mañlana
+cotizar un tercero de alimentos catering 
+
+Para alcohol ya cuenta con permiso, adicional el alcohol estaria incluido en la entrada, no seria venta.
+
+boletos impresos por medio de la boletera ()
+
+como facturamos? no se podria ser con gente de finanzas
+
+la terraza no se tocaria
+
+
+proceso de venta, propone utilizar la boletera que vende borregos, son preinpresos
+no habria opcion de boletos digital
+
+Duda con la facturacion, investigar con finanzas
+
+
+
+compartir propuestas del nombre alternativas a "Creando Valor"
+
+Presentacion de ventas para Tec Milenio 
+
+
+
+
+Sergio mariano:
+
+
+cuando buscas un event
+
+
+
+como buscar un evento?
+
+miercoles
+Video de salesforce con Julio
+PDF salesforce tomando como input el video de julio
+Proponer títulos para el programa creando valor
+Replicar el Heather que puso Hernán en todas las compensaciones
+Compensaciones de High Point con Oscar
+Reuniones con gil y Gerardo para revisar Pipeline de ventas
+Hacer formato de la presentación del viernes
+Coordinar temas legales y fiscales de palcos
+Enviar cuentas restantes, ya tenemos los accesos extra
+Coordinar sesiones de capacitación con Lalo para los dso
+Armar formato para reporte de alta de disponibilidad
+Pedirle la liga de qualTrix a Gaby para mandarla a Highpoint y levantar sus espacios
+
+
+
+
+Pipeline
+https://fefmx.sharepoint.com/:x:/s/TecVenues/EQKFFP_eOKFJjcwa4ULuwIYBYY5UYHPte0ClR2I-6I5cOg?e=BAnHT8
+
+
+
+Odoo
+que vamos a ver?
+ home?
+ simular compra?
+ login?
+
+
+Kits TecVenues:
+Actualizar presentación y Flyers de ventas (Cecilia) - En proceso
+Presentación consolidada de ventas (Cecilia) – En proceso
+Sesión con Asesores de ventas (Cecilia) - En proceso
+VEC - Pendiente junta previa el 4 de septiembre, Pendiente confirmar fecha
+ExaTec - Gaspar y Claudia tendrán sesión con Alejandro Poiré, Pendiente confirmar fecha
+LiFE – Cita Lunes 4 de septiembre.
+Material para capacitación asesores independientes (Carlos, Sergio, Antonio, etc.) (Cecilia) - En proceso 
+Capacitación uso de Salesforce (Julio) – En proceso         
+
+Plataforma EventPro:
+Actualizar proceso para alta de eventos (Karlo) - En proceso
+Solicitar 9 licencias de administrador EventPro (Karlo) - Finalizado
+Capacitaciones DSO viernes (gilberto) – En pausa
+Se reagenda capacitación, en espera de las licencias pendientes por parte del proveedor
+Actualizar calendario de eventos centrales TecVenues (Gilberto/Gerardo) - En proceso
+Avance DSO:
+Habilitación tecnológica:
+licencias 8/16
+Ventas:
+Cotización Cliente Liverpool prepa EGS(Gilberto) - En proceso
+Jueves visita de ERIAC capital humano a campus MTY (Gilberto) - En proceso
+Palcos:
+Prueba de sonido sala pasión 30 agosto 7:00 pm - En proceso
+Solicitar cotización de catering para alimentos - En proceso
+Boletos: Consultar viabilidad para utilizar la misma boletera de borregos - En proceso
+Compensaciones:
+Generación del documento de todas las compensaciones para firma de Erik Pascual y Yessi (Oscar) - En proceso
+
+
+
+
+
+
+fecha de liberacion de seo
+fecha de liberacion de seo
+
+
+
+
+
+
+
+
+
+
+NIC
+Odoo
+Eventpro
+OX??
+
+
+tacos villa de santiago
+
+
+
+
+
+
+
+
+Presentacion de venta
+venues:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EYVgxwv7nKtEnqwJLlvNUBkBIphiF7bDzhkZnK12zCEPVw?e=kS921G
+club 16:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EYynLuNps-NCukDkkw--oQ8Bz_lnGT1RGBFtemC_qVOzDQ?e=Xj4fNb
+Akky Consulting:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EZ5DqRXsm5lPlhSZRywsm2sBXf-TNEpzOtfKlkXRLMOyzg?e=SUQfQF
+Consolidado:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/Ea6dSKG9UKRBmaj_e_EzYGwBSIcJtr4pTNeCzQpxWolBxQ?e=nBNKnO
+
+flyers de ventas:
+venues:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EbWyd92lqL9Cv8PjJRdb8D8BKOBKVrmipTlEfpiZZ7EDgA?e=ZxGrYl
+Club 16:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EQQt-ZOTZBdAi82jqlDlb_8BGPJQLmXVXZxHyOn6VoP_9A?e=ThIDfl
+Akky:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/Edna2u4P1EFEvoDhixLunskBjoZd9c4VEjbh80a7DKxdtw?e=gGlMJY
+Consolidado:
+https://fefmx.sharepoint.com/:b:/s/TecVenues/EcK18zlqUC1OkBbumw3DsaQBfdtWi6fHdCBxfsK7WIwaeg?e=tcl3lw
+
+
+
+
+
+
+
+NIC170103C64
+
+NETWORK INFORMATION CENTER
+
+SOCIENDAD ANONIMA DE CAPITAL VARIABLE
+
+
+Revolucion 2703 1
+Piso 3
+Ladrillera
+Monterrey
+Nuevo Leon
+
+64830
+
+Cuentas event pro faltantes:
+
+Semaraim Evelyn Hernández y Hernández
+User: SHernandez_045531
+Password: Semaraim123
+semaraim@tec.mx
+
+Alejandro Salgado Tenorio
+User: ASalgado_045531
+Password: Alejandro123
+alejandro.salgado@tec.mx
+
+Mercedes Solorio Luna
+User: MSolorio_045531
+Password: Mercedes123
+msolorio@tec.mx
+
+Juan Carlos Serrano Nape
+User: Jserrano_045531
+Password: JCarlos123
+jcarlos.nape@tec.mx
+
+Paulina Rivera
+User: PRivera_045531
+Password: Paulina123
+paulina.rivera@tec.mx
+
+Paulina Fernanda Ramírez Hernández
+User: PauRamirez_045531
+Password: 123Paulina
+paulina_ramirez@tec.mx
+
+Julio César Galarza Beltran
+User: JGalarza_045531
+Password: JulioC123
+julio.galarza@tec.mx
+
+Jesús Felipe Varela Hidrogo
+User: JFVarela_045531
+Password: J3sus123
+felipevarela@tec.mx
+
+Perla Cecilia Del Castillo Elizondo
+User: PCastillo
+Password: eventpro123
+perla.castillo@tec.mx
+
+
+
+Buen día , 
+
+Te comparto tu cuenta de EventPro, adjuntando la guía y el video para guiarte a dar de alta tus eventos. 
+User: SSalas_045531
+Password: te va a pedir poner uno al iniciar
+
+Guías: 
+•	  04. Cómo gestionar la Disponibilidad de Espacios.pdf
+•	GRABACIÓN DE CAPACITACIÓN
+
+Cualquier duda estoy a tus órdenes.
+
+
+
+
+
+
+
+
+
+13 Noviembre Inicio del evento INC
+14 Noviembre Inicio de festival
+
+
+venues en client
+
+especificar si es interno quien es el encargado que no sea general
+
+
+Agenda
+admin:
+Acceso a citrix
+Credenciales
+Overview de la plataforma
+Event Calendar
+Reservaer espacio
+Crear evento
+Solicitud de eventos via WEB
+Dudas
+
+
+usuario gratuito web:
+Abrir URL
+Solicitar espacio
+Revisar solicitud en eventpro
+
+sesion semanal venues 04 ago
+Agenda:
+Kits: ppt consolidada
+juntas con asesores
+disponibilidad venues
+ventas: contactos / salerforce
+palcos
+
+
+hernan:
+no incluir en juntas de trabajo, solo cuando se deba comunicar o liberaciones
+
+importante definir que tipo de evento es
+
+
+2500 MXN cvon personas
+60 lugares 
+8 por cada palco
+todos los la palcos se deben ofrecer
+
+
+Colaboración y Alianzas
+
+
+Dany gomez 
+Especialista de agilidad
+experiencia en agile
+area de RH
+Nivel Avanzado
+
+
+video entrevista
+link
+
+hoy promotor
+285 contactos que traen correo
+
+
+definir status?
+que criterios tomar?
+
+https://connect.eventpro.net/ep/client/DB045531
+
+
+
+Agenda
+
+sara.quiroga@raspberry.mx
+
+sita promotor v 4
+
+
+quien seria de ti? Hector 
+
+enkoder tiene otra prioridad
+mejoras y correccion SEO
+
+
+
+
+
+Mejorar la experiencia del cliente en la plataforma
+Procesos despues de compra como el recibimiento del cliente
+seguimeinto de la lealtad de los clientes
+
+el año pasado fue el front
+este año carrito
+proceso 
+
+H Front
+F procesos posterioess
+
+primera implementacion
+SEO se liberaron 2 cuestiones
+
+riezgos?
+No somos expertos en google analytics 4
+valdria la pena revisar con el equipo de desarrollo como asegurarnos que conservemos la implementacion
+desarrollar 
+
+
+
+
+=SUMIF(A2:A100, F1, D2:D100) / SUMIF(A2:A100, F1, D2:D100) * 100
+
+=(COUNTIF(A:A, F1) / COUNTIF(A:A, F2 & "*")) * 100
+
+=COUNTIFS(A:A, "Campus1", D:D, "<>0")
+=COUNTIF(A:A, F2) - COUNTIFIFS(A:A, F2 D:D, "<>0")
+
+
+=COUNTIFS(A:A, F2, D:D, "<>""", D:D, "<>0")
+
+
+
+
+
+Cita 08 de Septiembre otra area de vivaaerobus
+Cita 14 de septiembre con Vivaaerobus
+Cotizaciones campus Hermosillo
+	Nissan, colegio provado y empresa cinematografica 
+TED mexico
+	sede TED Mexico mañana
+CDMX
+Sesion Femsa
+Viernes
+Seguimiento posada santander queretaro
+
+Sara Renovacion de la pagina web
+Redes Sociales
+
+
+
+hp
+y tec mi
+cuentas eventpro
+champions
+
+
+
+mariano
+
+
+Lalo:
+proceso ceco
+Dar de alta CeCo para afinar ingresos
+
+288 correos
+
+
+Sara:
+Sesion con visibilidad a futuro de cuando vamos a terminar
+Volvernos proactivos de cara a 2024
+Definir prioridades
+Darnos tiempo para planear a futuro
+
+Prepararnos para atender VEC
+
+Sesion pa
+
+
+
+Gil champion
+
+
+Zacatecas
+
+
+
+
+
+pago ricky martin 1M200
+
+
+vec
+sesion jorge blando
+sesion con lideres
+aprobacion compensacioness
+sesion explicar iniciativa
+
+
+
+kit de la vec
+
+
+
+
+enviar por hotspot con el nombre de jordi
+
+
+
+
+
+
+Yessica Maribel Carrillo Hurtado
+
+Eric Pascual Jiménez
+
+
+
+
+
+
+
+
+
+hacer el programa de change management
+poner retos
+
+uno por cada uno dependiendo las caraxteristicas del equipo
+
+cecilia manda ppt a alejandro poire
+
+Life otra junta con luis raul
+
+Prsentacion a miguel mendez lo busca jordi
+
+jordi ve elegiblrs a todos
+
+correo ahorita a jaime para los reconocimientos (el queria definir los objetivos con victor)esquema para incentivar DSO
+
+egade 
+
+nombre, detalles
+
+listado de HPIS con calvillo
+
+tec ventures ya definir el kit, compensaciones y todo lo demas es lo mismo
+
+Hernan manda a bruno la presentacion de tec milenoo, ceci se la comparte hoy mismo
+
+igual con asesores independientes armar kit ya y que vendan
+
+Relaciones corporativas no quiere nada
+
+venues grandes prioridad
+
+martes 19 inicia a entrar vec
+
+Placos vender al precio que sea pero asap
+
+
+Evoluciomna tec mañana
+
+
+
+
+
+Sara
+que llame y consiga un listadi de precios (hacer cotizaciones)
+
+Lalo 
+primero revisar la disponibilidad en eventproy de ahi calcular el potencial
+
+
+
+
+
+Guadalupe Chanona Dominguez
+Héctor Francisco Alcalá Rojas
+
+Nancy Yareli Peña Camacho
+
+
+
+
+
+
+Rubén Armando Theurel Félix - Chihuahua
+Paulina Fernanda Ramírez Hernández - Querétaro
+Mercedes Solorio Luna - Sinaloa
+
+
+1. Proceso Comercial
+a. General
+b. TecVenues
+c. Club16
+d. Akky Consulting
+2. Manual de la herramienta Event Pro – En ella podrás visualizar la disponibilidad de
+espacios y solicitar una reservación.
+3. Programas de compensación
+4. Preguntas frecuentes
+5. Lista de contactos
+
+
+
+
+Campus CEM edo mex, para vender cerveza cero
+Casi cerrada negociacion de los reds
+MVS posada de queretaro
+Envio de ecard para enviar hoy para acomodar los palcos, espera este fin cerrarlo
+
+
+
+
+
+Paulina Rivera	Norte	Laguna
+Claudia Elena Medina Reyes	Monterrey	Saltillo
+Julio César Galarza Beltran	Norte	San Luis Potosi
+
+
+Gera:
+Palcos
+
+
+
+Generar y construir el pricing list
+de forma que todos usen el mismo
+
+
+
+
+Ana Elena Garza Patiño aegarza@tec.mx
+User: AGarza
+Password: eventpro123
+Alberto Ponce González aponce@tec.mx
+User: APonce
+Password: 123eventpro
+
+
+
+proceso raspberry
+proceso sorteos
+compensación raspberry
+compensación sorteos
+contacto raspberry
+contacto sorteos
+ajustar la carta de bienvenida: dirigida a tecventures, agregar contactos
+diseño a héroes
+
+
+
+queremos una reunion con los proveedores, contactar al de abastecimientos
+proveedores
+
+proceso
+Lista de contactos, se juntan con el de compras
+llamarle
+agendar una junta
+
+kits y compensaciones
+urge:
+vec
+life
+tec store
+dso
+Tec Ventures
+asesores independientes
+
+next week
+tec milenio
+
+
+Ricky Martin:
+4 posibles palcos vendidos
+definir sigueinets 2 palcos grandes
+
+siguientes pasos:
+Agendar sesion o sesiones para compartir iniciativa
+definir cortes de seguimiento
+Definir apoyo para facturar palcos.
+
+Contactos,
+gil
+proveedores top, con cuantos nos reunimos
+socios formadores, igual
+contactos genericos,
+gera:
+con todos los que hacemos eventos
+
+
+
+Gilberto Luna gilberto.luna@nic.mx Tel. 81 1080 5458 
+
+de 68
+12 de 21 proveedores contetsaron
+
+
+
+Listado de 68 Proveedores
+Actualmente se tienen 24 numeros de contacto
+12 
+
+Contactados 12/21 numero confirmados 
+	9 no contestaron
+
+
+
+
+Sprint 1 
+Se contactaron a 5 de los 68 proveedores:
+Earned Value, SA DE CV (No contesto)
+Rodotours S DE RL DE CV (No contesto)
+Servicio Industrial Regiomontano (ppt Ventas enviada) 
+Grupo Lite (Contacto fuera de la ciudad, pidio ser contactado el miercoles 27 para agendar cita)
+ATXK CONSTRUCCION DE INTERIORES, SA PI DE CV (Enviara contacto de nueva persona responsable)
+
+Citas porgramadas:
+ENLACEFORTE, SA DE CV - 21 Sept
+Soluciones EXA - 25 Sept
+
+Giveaway Ricky Martin - Finalizado
+
+
+De estos proveedores, 3 han mostrado interés y hemos enviado la presentación de ventas.
+
+
+Sprint 2:
+Proveedores:
+Se contactaron 11 de los 68 proveedores
+H y A de Mexico (No atendio segundo intento de contacto, 19-20 sept)
+KMD, SA DE CV (Contacto esta de vacaciones)
+VOLTA & DESIGN, S DE RL DE CV (No atendio la llamada)
+CONTROL TECNICO Y REPRESENTACIONES, SA DE CV (El contacto ya no es la persona responsable)
+EDIFIKT, SA DE CV (Se envio presentacion de ventas al responsable)
+HERMAN MILLER MEXICO, SA DE CV (Se envio presentacion de ventas al responsable)
+NET POINT, SA DE CV (Se envio presentacion de ventas al responsable)
+INMOBILIARIA EYMSA, SA DE CV (Se envio presentacion de ventas al responsable)
+VIDEOPROYECCION INTEGRAL, SA DE CV(Contacto ocupado, devolvera la llamada)
+RG REPRESENTACIONES PARA LABORATORI OS SA DE CV (Contacto ocupado, devolvera la llamada)
+
+Citas:
+BECK INTERNACIONAL DE MEXICO, S DE RL DE CV - 22 de sept.
+
+Proveedores contactados en total al momento: 
+24/68 contactados
+9 no han atendido la llamada
+
+Palcos:
+Envio de cuentas para pagos(Gerardo) 
+Sesion con Carlos Jurado MLS(Gerardo)
+
+Redes sociales:
+Solicitud de correo institucional para giveaway Ricky martin (Sara) - Finalizado
+Estrategia de redes sociales Tec (Sara) - Finalizado
+-----------------------------------------------------------------------------------------------
+Proveedores contactados en total: 
+24 de 68
+7 no han atendido la llamada
+37 Proveedores pendientes de numero de contacto
+grand total: 31
+
+Sprint 3:
+Proveedores:
+HERMAN MILLER MEXICO, SA DE CV (Confirman que quieren una cita, fecha TBD)
+24/72 Proveedores contactados 
+9/72 no han atendido la llamada
+39 Proveedores pendientes de numero de contacto
+
+Otros leads:
+Solucion de temas operativos:
+NIC - Evento confirmado
+FEMSA Digital - En cotizacion
+Cotizaciones Campus Hermosillo – En proceso
+(TFC Institute, Colegio Lideel, Nissan Sonora)
+Re-contacto Lead evento Cielo Magico - En proceso
+
+Redes sociales:
+Estrategia redes sociales (Sara) - Finalizado
+Estrategia de pagina web (Sara) - En proceso
+
+
+
+heroes de negocio??
+
+cambios en cartas
+cambio en la descripcion de los negocios
+
+Rentar
+
+
+quitar vicepresidente de todo
+
+
+modificar el plan 
+
+esquema de compensacion x esquema de recompensas
+quitar plan estrategico
+
+preguntas frecuentes:
+en todo poner a gerardo y gilberto
+
+quitar akky consulting de preguntas frecuentes-
+
+agregar contactos a todos
+
+
+todo a arial
+
+-----------------------------------------------------------------------------------------------
+Sprint 4:
+Proveedores:
+27/72 Proveedores contactados 
+14/72 no han atendido la llamada
+
+MPI PROYECTA (No atendio la llamada)
+OFFICE DEPOT DE MEXICO, SA DE CV (No atendio la llamada)
+W2G LOGISTICA, SA DE CV (No atendio la llamada)
+START BANREGIO, S.A. DE C.V. SOFOM E.R., BANREGIO GRUPO FINANCIERO (No atendio la llamada)
+DHL EXPRESS MEXICO, SA DE CV (Se envio ppt de venta)
+AMERICAN EXPRESS (Se envio ppt de venta)
+GRABADOS FERNANDO FERNANDEZ, S DE R L DE CV (Se envio ppt de venta)
+MER.K SERVICIOS, SA DE CV (Confirman que quieren una cita, fecha TBD)
+
+Directores y VP de talento RRHH:
+SC Johnson (Envio contacto de eventos del area)
+Kellogs (Re- contacto)
+
+Redes sociales:
+Estrategia redes sociales (Sara) - Finalizado
+Estrategia de pagina web (Sara) - Finalizado
+
+
+27/72 contactados
+14/72 no han respondido
+
+
+
+
+---------------------------------
+
+
+
+
+
+
+
+
+Earned Value, SA DE CV (No contesto)
+Rodotours S DE RL DE CV (No contesto)
+Servicio Industrial Regiomontano (ppt Ventas enviada) 
+Grupo Lite (Contacto fuera de la ciudad, pidio ser contactado el miercoles 27 para agendar cita)
+ATXK CONSTRUCCION DE INTERIORES, SA PI DE CV (Enviara contacto de nueva persona responsable)
+ENLACEFORTE, SA DE CV - 21 Sept
+Soluciones EXA - 25 Sept
+H y A de Mexico (No atendio segundo intento de contacto, 19-20 sept)
+KMD, SA DE CV (Contacto esta de vacaciones)
+VOLTA & DESIGN, S DE RL DE CV (No atendio la llamada)
+CONTROL TECNICO Y REPRESENTACIONES, SA DE CV (El contacto ya no es la persona responsable)
+EDIFIKT, SA DE CV (Se envio presentacion de ventas al responsable)
+HERMAN MILLER MEXICO, SA DE CV (Se envio presentacion de ventas al responsable)
+NET POINT, SA DE CV (Se envio presentacion de ventas al responsable)
+INMOBILIARIA EYMSA, SA DE CV (Se envio presentacion de ventas al responsable)
+VIDEOPROYECCION INTEGRAL, SA DE CV(Contacto ocupado, devolvera la llamada)
+RG REPRESENTACIONES PARA LABORATORI OS SA DE CV (Contacto ocupado, devolvera la llamada)
+MPI PROYECTA (No atendio la llamada)
+OFFICE DEPOT DE MEXICO, SA DE CV (No atendio la llamada)
+W2G LOGISTICA, SA DE CV (No atendio la llamada)
+START BANREGIO, S.A. DE C.V. SOFOM E.R., BANREGIO GRUPO FINANCIERO (No atendio la llamada)
+DHL EXPRESS MEXICO, SA DE CV (Se envio ppt de venta)
+AMERICAN EXPRESS (Se envio ppt de venta)
+GRABADOS FERNANDO FERNANDEZ, S DE R L DE CV (Se envio ppt de venta)
+MER.K SERVICIOS, SA DE CV (Confirman que quieren una cita, fecha TBD)
+
+
+enviar presentacion
+enviar el correo justo a los que faltan de AE con copia a roberto
+
+si es stopper no usamos nada del tec
+no entrar a la burocracia del tec
+
+
+
+
+Cotizar funcionalidades de Pagina WEB (Sara) - En proceso
+
+
+
+
+
+Gerardo Rodríguez, gjrodriguez@tec.mx, 81 1910 9048
+
+
+21 Sept
+
+-----------------------------
+Sprint 1
+
+Proveedores TEC:
+Net Point (Se envio ppt a responsable de eventos)
+MER.K SERVICIOS, SA DE CV (Confirman que quieren una cita, fecha TBD)
+SAP (No contesto por tercer dia consecutivo)
+
+28/72 contactados
+14/72 no han respondido
+
+Otros Leads:
+Whirpool (Gilberto) - Nos pasaran el contacto de responsable de eventos)
+Firma de contrato para cliente Rebeca Briones CEM (Gerardo)) – En proceso
+o	Contrato enviado 
+
+Directores y VP de talento:
+Mondelez (Se envio mail a contacto de eventos)
+Grabados Fdz (Envio de ppt a responsable) 
+
+Palcos:
+Envió de cuentas para pagos (Gerardo) – 3/4 Pagados (Pendiente Inmobiliaria Navalcarnero)
+	
+-----------------------------
+Sprint 2
+Gartner (Enviara informacion a VP y responsables)
+BCD Travel (No atendio en la llamada)
+
+Citas agendadas
+DELOITTE CONSULTING GROUP, SC (02 de octubre)
+MER.K SERVICIOS, SA DE CV (27 de septiembre)
+
+29/74 contactados
+15/74 no han respondido
+
+Leads Tec Ventures:
+Colegio Liceo Alberto de Canto Campus Saltillo - En proceso
+
+kits:
+Video de capacitacion salesforce para Asesores indpeendientes - Finalizado
+
+-----------------------------
+Sprint 3
+Proveedores 
+29/74 contactados
+14/74 no han respondido
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+	7 interesados
+
+Palcos:
+vendidos 4/5
+	Pagados 4/4
+Cita con Construm para ofertar ultimo palco(Gerardo)
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+	8 interesados:
+•	Jose Cuervo
+•	Nestle
+•	Keloggs
+•	CryoInfra
+•	Uber
+•	Constructora Maxwell
+•	KCC
+•	GBM+
+
+
+
+
+-----------------------------
+
+Sprint 4
+Experiencias 
+Cargar proveedores a CRM – En proceso
+
+Proveedores
+30/74 contactados
+13/74 no han respondido
+
+SAP(Solicito ontacto telefonico 6pm)
+
+Citas:
+MICRONET DE MEXICO, SA DE CV (Visita al campus, TBD)
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+	8 interesados
+
+Reunión con Cluster de Turismo de Monterrey, revisar canales de promoción, identificar accionables con organizadores de eventos (Sara) – Finalizado
+o	Cita con Construm para ofertar ultimo palco – Finalizado
+
+Enviar propuesta para que ticketmaster sea la boletera oficial (Gerardo)
+
+
+-----------------------------
+22 sept
+Sprint 1
+Proveedores
+30/74 contactados
+13/74 no han respondido
+
+
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+	8 interesados
+
+Actualizacion kit Tec Ventures (Karlo)
+Preparar presentacion de capacitacion LiFE (Gilberto/ Karlo/ Daniel)
+Solicitud de layout para carga de Leads en Salesforce(Daniel) - Pendiente envio de Layout por parte de Adriana
+
+
+23 sept Sprint 2
+Proveedores
+30/74 contactados
+13/74 no han respondido
+
+BECK INTERNACIONAL DE MEXICO, S DE RL DE CV(Gil) - Videollamada
+
+Aida Valdez estuvo en el bbunker:
+Nos compartira lista de proveedores con mas potencial para realizar eventos.
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+	8 interesados
+
+Cita con 4S Real Estate (Gerardo)
+
+Kits:
+Actualizacion kit Tec Ventures (Karlo)
+Capacitacion asesores LiFE (Gilberto/ Karlo/ Daniel/Cecilia)
+
+Stoppers:
+Sara:
+Junta con proveedor de INC
+Le solicitaron coordinar presencia de marcas Tec Ventures partido de borregos 22 septiembre 
+
+
+
+23 sept Sprint 3
+Proveedores
+30/74 contactados
+13/74 no han respondido
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+8 interesados
+
+Sesion, Filtrar contactos NAR con Itzel y Nora (Gilberto/ Karlo)
+	
+Otros Leads:
+COFLEX (Primer contacto, presentacion enviada)
+FULTRA (Primer contacto, devolvera llamada)
+
+VEC:
+Contacto para prospecto en Leon (Gilberto)
+	
+Redes Sociales (Sara):
+Armar audiencias y objetivos - En proceso
+Configurar accesos para personal del Tec - En proceso
+Alinear identidad - En proceso
+
+---------------------------------------------------------------------
+
+23 sept Sprint 4
+Proveedores
+30/74 contactados
+13/74 no han respondido
+
+Sesion con SAP - 5:30 pm
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados 34/110
+8 interesados
+
+Alejandro Lascurain KCS (Contacto interesado)
+
+Kits:
+Actualizacion de Kits LiFE (Karlo)
+	
+Redes Sociales (Sara):
+Armar audiencias y objetivos - En proceso
+Configurar accesos para personal del Tec - En proceso
+Alinear identidad - En proceso
+
+
+
+---------------------------------------------------------------------
+25 sept
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+9 interesados
+
+Contacto con Jumex (No interesado en Palco, aprovechando la comunicacion se le oferto los espacios)
+
+Otros leads:
+Visita de Flash a Arena Borregos (Gilberto/Eduardo) - Finalizado
+En firma de contrato Aidee CCM (Gerardo) - En proceso
+
+Palcos:
+
+
+Redes Sociales:
+Post Redes sociales (Sara) - En proceso
+
+Montaje de Ricky Martin - 6 p.m.
+
+
+1. Validar que se pueda extender el tiempo
+2. agregar imagenes
+3. asegurar la comunicacion
+
+----------------------------------------------------------------
+25 sept
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+9 interesados
+
+
+Otros leads:
+
+
+Palcos:
+
+
+Redes Sociales:
+Post Redes sociales (Sara) - En proceso
+
+Stoppers:
+Erick no ha notificado a Jorge Blando de las modificaciones en compensaciones (Cecy ya le comunico a Gabriela, le esta dando seguimiento)
+
+
+Montaje de Ricky Martin - 6 p.m.
+
+
+Mañana slide por iniciativas, quien es el lider?
+
+Historias de usuario para la web de eventpro:
+
+1. Crear un brochure de los espacios 
+
+2. Catalogo en linea de espacios con filtro
+
+
+No hay fotografias
+falta CM
+
+----------------------------------------------------------------
+26 sept S1
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Ricky Martin (Gerardo):
+Liberar cortesias para LiFE
+- Imprimir y en viar
+- para alumnos
+Palcos:
+Alta y pago de proveedor Montaje y Desmontaje (Operacion) - En proceso
+
+Kits de venta:
+Capacitacion Asesores VEC (Karlo/Cecilia) - Finalizado
+Envio de kit Tecstore (Karlo) - En proceso
+Envio de kit LiFE - En proceso
+Envio de kit VEC - En proceso
+
+Marketing y posicionamiento:
+Reunión con OCV (Gilberto) - Finalizado
+OCV nos incluiran en su catalogo de espacios para 2024
+Coordinar con OCV participacion en Ferias nacionales (Sara) - En proceso
+Citas Medios de comunicacion especializados (Mercado de convenciones y Factor meetings) - 19 de Octubre
+
+
+Mercado de convenciones - 19 de Octubre
+Factor meetings - 19 de Octubre
+
+
+----------------------------------------------------------------
+26 sept S2
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Proveedores TEC:
+Sesion con Soluciones EXA(Gilberto) - Finalizado
+
+Otros leads:
+Cotizacion Instituto Wellfare para Luis Elizondo en Diciembre(Gerardo) - En proceso
+
+Ricky Martin (Gerardo):
+Liberar cortesias para LiFE 
+- Imprimir y en viar
+- para alumnos
+
+Palcos:
+Alta y pago de proveedor Montaje y Desmontaje (Operacion) - En proceso
+Envio de informacion de proteccion civil - Finalizado
+Creacion de marbete para estacionamiento (Sara) - Finalizado
+
+Kits de venta:
+Envio de kit Tecstore (Karlo) - En proceso
+Envio de kit LiFE - En proceso
+Envio de kit VEC - En proceso
+
+LiFE:
+Agendar sesion con Pille Kustala para seguimeinto de VEC - 27 de septiembre
+
+Marketing y posicionamiento:
+Contacto via telefonica: 
+OCV GDL - Pendiente agendar sesion
+OCV QUeretaro  - Sesion 02 Octubre
+
+Stoppers:
+Dependencia de fotos por parte de Comunicacion regional y campus (Itziar Elorduy) - Comenta que su disponibilidad es limitada
+
+
+
+Presentaciones comerciales por campous - En proceso
+
+
+
+
+
+
+
+Lucia Sada eventos - Cita para ver centro de congresos TBD
+
+Envio de factura para cobro Rayados Monto $445000 - Pago en especie, se ha iniciado a cobrar desde hace 1 mes
+
+
+Dependencias:
+Cobro y Factura Pagada de Luis Miguel
+Generar y enviar facturas
+Daniel Rodriguez ha apoyado
+
+
+----------------------------------------------------------------
+26 sept S3
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Coparmex - Solicitar a Lalo disponibilidad EGADE
+Service Now - Contacto con persona responsable de eventos
+
+Entrevista para puesto de Auxiliar Arministrativo Blanca Martinez (Gilberto) - Finalizado 
+
+Palcos:
+Alta y pago de proveedor Montaje y Desmontaje (Operacion) - En proceso
+Croquis de estacionamiento (Sara) - Finalizado
+
+Kits de venta(Karlo):
+Envio de kit LiFE - En proceso, Se comaparte a Marioli kit para pruebas y envio.
+Envio de kit Tecstore  - En proceso
+Envio de kit VEC - En proceso
+
+Marketing y posicionamiento:
+Llamada OCV Leon - Ya no existe division, pero pasaran contacto de turismo local)
+
+Stoppers:
+Dependencia de fotos por parte de Comunicacion regional y campus (Itziar Elorduy) - Se agendara sesion con Itziar la proxima semana
+
+----------------------------------------------------------------
+26 sept S4
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Coparmex - Solicitar a Lalo disponibilidad EGADE
+Qualtrix - Contacto con persona responsable de eventos
+
+Entrevista para puesto de Auxiliar Arministrativo Blanca Martinez (Gilberto) - Finalizado 
+
+Palcos:
+Alta y pago de proveedor Montaje y Desmontaje (Operacion) - En proceso
+Croquis de estacionamiento (Sara) - Finalizado
+
+Kits de venta(Karlo):
+Envio de kit LiFE - En proceso, Se comaparte a Marioli kit para pruebas y envio.
+Envio de kit Tecstore  - En proceso
+Envio de kit VEC - En proceso
+
+Marketing y posicionamiento:
+Llamada OCV Leon - Ya no existe division, pero pasaran contacto de turismo local)
+
+Stoppers:
+Dependencia de fotos por parte de Comunicacion regional y campus (Itziar Elorduy) - Se agendara sesion con Itziar la proxima semana
+
+----------------------------------------------------------------
+27 sept S1
+Proveedores
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+Grupo Mabe - Contacto para ofrecer Venues
+
+Leads VEC:
+Cotizacion cliente Laguna 2 Fechas (Gilberto) - Finalizado
+Cotizacion CLAUT MTY(Gilberto) - En proceso
+
+VP y RRHH
+Coordinar visita SC Johnson a Campus Toluca(Gilberto) - Finalizado
+
+Ricky Martin:
+Seguimiento a instalacion de Photo Oportunities en palcos (Sara) - En proceso
+Ultimo Palco ofrecido a banorte, en espera de respuesta (Gilberto)
+
+Agendar sesion VoBo Talento Tecmilenio (Cecilia) - 10 octubre
+Agendar sesion Patrocinios Astrid Burst (Cecilia) - 29 septiembre 
+
+Ticketmaster:
+Fecha limite para propouesta para ser la boletera oficial
+
+Kits:
+Envio de kits TECStore a Marioli para pruebas y envio
+
+Stoppers:
+Pendiente 
+
+Sara no ha recibido respuesta por parte de 
+
+----------------------------------------------------------------
+27 sept S2
+Proveedores 5M
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Sesion con MER.K services (Gilberto) - Finalizado
+Sesion con BCD Travel (Gilberto) - Finalizado
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Leads VEC:
+CLAUT Solicitud de Servicio a Karla Ibarra(Gilberto) - Pendiente confirmacion
+
+Ricky Martin:
+Seguimiento operacion (Gerardo)
+Dinamica Ganador Giveaway (Sara) - En proceso
+
+Kits:
+Envio de kits TECStore a asesores de ventas(Karlo) - Finalizado
+
+Seguimiento Terreno Valle alto se va a lotear, cancelado canchas de futbol(Gerardo)
+
+
+Choro mareador en sesion con encaragdos de eventos:
+
+Presentacion (Quien soy, del TEC de mty)
+introduccion a Tec Venues:
+Que es?
+cual es el objetivo?
+que ofrecemos?
+presentacion de ventas:
+tipos de espacio
+capacidades
+tipos de eventos posibles
+cobertura
+tenemos precios competitivos
+preguntas frecuentes?
+
+----------------------------------------------------------------
+27 sept S3
+Proveedores 5M
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+RRHH:
+AXTEL (Gilberto) - Solicitud de 3 cotizaciones (Mexico, GDL, MTY)
+
+Leads DSO:
+Solicitud de cotizacion cliente San Luis(Gioberto) - En proceso
+
+Leads TecVentures:
+Solicitud de 3 cotizaciones nuevas (Gilberto) - En proceso
+
+Hey Banco (Gilberto) - LLamada para ofertas espacios, interes en Auditorio Luis Elizondo y Centro de congresos para posada.
+Sesion con Banorte para seguimiento de ultimo palco(Gerardo) - 27 sept 5 pm
+
+
+
+Hey Banco $135000
+
+
+Highlights del dia:
+Montaje a tiempo(gerardo)
+Reunion con Pille
+Grupo Mabe - Contacto para ofrecer Venues
+$
+
+Mattel
+
+
+filtro por usuario
+
+----------------------------------------------------------------
+28 sept
+Highlights del dia:
+Entrega de cortesias Ricky Martin(Gerardo) - Finalizado
+Montaje Ricky martin en tiempo 
+Comienzo de desmontaje/montaje de los palcos - En proceso
+Definicion de grupos con champions de LiFE
+Cierre de contacto de Reds CCM (Gerardo) - En proceso
+Seguimiento a cotizacion Raptor CEM (Gerardo) - En proceso
+
+----------------------------------------------------------------
+28 sept S1
+Proveedores 5M
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Cotizacion de Claut (Gil) - Envio de solicitud de catering a TECFood
+Cotizacion axtel(Gil) (3 sedes CMDX, MTY, GDL) - En proceso
+
+Entrega de cortesias Ricky Martin a LiFE(Gerardo) - En proceso
+
+Se solicito apoyo por la tarde para seguimiento de clientes en salesforce(Karlo)
+
+Stoppers:
+Ni finanzas ni Sorteos ha asignado auxiliar de apoyo para contacto de clientes.
+
+----------------------------------------------------------------
+28 sept S2
+Proveedores 5M
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+VP y RRHH (Gilberto):
+HOME DEPOT - Primer contacto
+MASTER CARD - Primer contacto
+COFLEX - Primer contacto
+FULTRA - Primer contacto
+
+Cierre de contacto de Reds CCM (Gerardo) - En proceso
+Seguimiento a cotizacion Raptor CEM (Gerardo) - En proceso
+
+Marketing y posicionamiento:
+Coordinar entrega de boletos ganadores Giveaway (Sara)
+Concepto creativo para promover campus en redes sociales (Sara)
+
+Stoppers:
+Ni finanzas ni Sorteos ha asignado auxiliar de apoyo para contacto de clientes.
+
+
+Cargar espacios Highpoint a Event Pro
+
+----------------------------------------------------------------
+28 sept S3
+Proveedores 5M
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Coordinacion Desayuno del consejo (Sara) - Horario y caracteristicas confirmadas, pendiente confirmar participacion de Hernan
+Business Case redes sociales (Sara) - En proceso
+FotoShelter - Armado de base fotografica para venues (Sara)
+
+Entrega de cortesias Ricky Martin a LiFE(Gerardo) - Finalizado
+
+BAIN Presentacion de ventas(Gilberto) - Finalizado
+JOSE CUERVO (Gilberto) - ¨Presentacion de ventas enviada
+AXTEL, Solicitud de disponibilidad CDMX, MTY, GDL (Gilberto) - En procreso
+
+
+----------------------------------------------------------------
+29 sept S1
+Presentacion para Viernes de Pizza (Gilberto/Karlo) - En proceso
+Sesion con Astrid de Patrocinios para presentar el programa (Cecilia) - Finalizado
+Pendiente de confirmar esquema de compensación para agendar sesión con asesores de Patrocinios
+Gestion Concierto de Ricky Martin(Gerardo) - En proceso
+
+Marketing (Sara):
+historias de los ganadores del giveaway - FInalizado
+Agendar visita para martes a EGADE para ver Logistica desayuno de consejo cluster de turismo - En proceso
+
+Stoppers:
+Operacion del campus no desmonto las salas destinadas a palcos, Gerardo se encuentra gestionando el inconveniente con Lily Campos
+
+----------------------------------------------------------------
+29 sept S2
+Presentacion y Ice Breaker para Viernes de Pizza (Gilberto/Gabriela) - Finalizado
+Presentacion de ventas para directores de Campus (Cecilia) – En proceso
+Compartir de kit VEC a Marioli para pruebas y envio - Finalizado
+Gestion Concierto de Ricky Martin(Gerardo) - En proceso
+
+Stoppers:
+Operacion del campus no desmonto las salas destinadas a palcos, Gerardo se encuentra gestionando el inconveniente con Lily Campos
+
+
+
+Saludo
+
+Soy _____ del tec de mty
+
+Te puedo robar un minuto?
+
+Se que tienes una relacion muy estrecha con (Contacto de abastecimiento)
+
+Me gustaria hablar contigo acerca de una nueva iniciativa...
+
+(Explicarle de que se trata tec venues,
+
+tipos de espacios y que capacidades en general desde 2 hasta 18000 personas)
+
+Solicitar una cita o contacto para poder comapartir la informacion
+
+Fin
+----------------------------------------------------------------
+29 sept S3
+Viernes de Pizza (Gilberto/Sara) - Finalizado
+Gestion Concierto de Ricky Martin(Gerardo) - En proceso
+ACtivacion de ".mx" en palcos Ricky Martin(Sara) - FInalizado
+
+
+Stoppers:
+Sesion con 
+
+
+----------------------------------------------------------------
+Highlights del dia:
+Primer contacto Asociacion de atletismo de Nuevo Leon (Gerardo) - Finalizado
+Sesion de comentarios y retro de Ricky Martin con promotor (Gerardo) - Finalizado
+Llamada Juan Michel seguimiento palcos de Luis Miguel, ingreso, elaboracion de addendum (Gerardo) - Finalizado
+Sesion con Begoña Gallego de talento de TecMilenio (Cecilia) - Finalizado
+Visita Deloitte a Campus MTY (Gilberto) - Finalizado
+Recorrido en el Estadio para devolucion del fondo de garantia (Gerardo)
+
+
+
+02 Oct S1
+
+Proveedores 5M
+30/74 contactados via telefonica
+13/74 no han respondido la llamada
+Avance 56%
+
+Listado 110 proveedores organizadores de eventos (Gerardo):
+Contactados via Correo Electronico 71/110
+Avance 65%
+
+Sesion de comentarios y retro de Ricky Martin con promotor (Gerardo) - Finalizado
+Llamada Juan Michel seguimiento palcos de Luis Miguel, ingreso, elaboracion de addendum (Gerardo) - Finalizado
+Agendar sesiones de Venues Antonio Olivares solicitada por el (Cecilia) - En proceso
+Sesion con Begoña Gallego de talento de TecMilenio (Cecilia) - Finalizado
+Junta Norma Jasso Finanzas (Gerardo/Gilberto) - Finalizado
+
+
+Promotor para revisar comentarios ope
+Negociacion palcos Luis Miguel
+Armar los grupos
+Cobro factura pendiente Rayados $445000
+Hoy reunion Mabe
+
+Cecy
+Sesion con
+
+----------------------------------------------------------------
+02 Oct S2
+
+Visita Deloitte a Campus MTY (Gilberto) - Finalizado
+Envio de business case para RRSS (Sara) - Finalizado
+Cobro factura pendiente Rayados $ (Gerardo) - En proceso
+Seguimiento con Julion Alvarez (Gerardo) - Pendiente agendar otra reunion
+Nos acompaño Maria Gonzalez de sorteos para apoyo de llamadas - Se comprometio con 10 llamadas el dia de hoy
+Recorrido en el Estadio para devolucion del fondo de garantia (Gerardo) - Finalizado
+
+8110508397 Maria Gonzalez Sorteos Tec
+
+
+
+Primer contacto Asociacion de atletismo de Nuevo Leon (Gerardo) - Finalizado
+Reunion miercoles para visitar estadio Azul
+
+
+Recorrido en el Estadio para devolucion del fondo de garantia (Gerardo) - 02 oct 4:00 pm 
+
+----------------------------------------------------------------
+02 Oct S3
+
+Proveedores 5M
+MPI Proyecta - En envio presentacion de ventas 
+
+Otros leads:
+Working Better (Gilberto) - Cita 04 Oct 4:00pm
+Seguimiento Coparmex detalles del evento (Gilberto) 
+Seguimiento CLAUT detalles del evento (Gilberto) 
+Primer contacto Asociacion de atletismo de Nuevo Leon (Gerardo) - Finalizado
+
+
+Recorrido en el Estadio para devolucion del fondo de garantia (Gerardo)
+
+----------------------------------------------------------------
+03 Oct S1
+
+Sesion de actualizacion de proyeccion de ventas (Gil/Karlo/Gerardo/Gocher/Cecilia) - Finalziado
+Seguimiento a actualizacion de espacios EGADE y Queretaro en EVentPro (Daniel) - Finalziado
+Sesion con Lily Campos para seguimeinto de conciertos (Gerardo) - Finalziado
+Sesion de actualizacion de manual de usos financieros(Gil/Gerardo/Gocher) - Finalziado
+Recorrido con representante Julio Alvarez (Gerardo) - Finalziado
+Sesion de Estrategia & RRSS (Cecilia/Sara) - Finalizado
+Enviar a Lalo solicitud de DWG (Gerardo) - En proceso
+
+
+
+----------------------------------------------------------------
+03 Oct S2
+Sesion campus CEM Rebeca Carranza(Gerardo) - Evento Cerrado $196000
+
+VP y RRHH:
+Agendar sesion con vivaaerobus (Gilberto) - 04 oct
+
+VEC(Gilberto):
+Creado grupo de whatsapp
+Sesion semanal - Finalizado
+Innovasport - Solicitud de cita 05 Oct
+Secretaria de economia del estado de NL - SOlicitaron informacion
+CLAUT - Cotizacion enviada
+
+LiFE(Gerardo):
+Grupo en proceso - Se contacto a todos los directores de campus para confirmar Champion por campus
+
+
+
+Agendar visita al rancho tec (Gilberto) - 
+Vivaaerobus mañana 9am
+
+
+
+Sebas:
+kit de HPIS
+
+
+
+
+fdbaltaza@tec.mx
+
+
+----------------------------------------------------------------
+04 Oct S1
+
+Proveedores 5M Avance de contacto: 58% via telefonica
+Organizadores de eventos Avance de contacto: 65% via telefonica
+Proveedores ST Avance de contacto: 42% via telefonica
+Proveedores Tec Ventures Avance de contacto: 19%
+
+Visita Vivaaerobus (Gilberto) - Finalizado
+Seguimiento a iniciativas con Generalistas (Karlo/Cecilia) - Finalizado
+Ficha tecnica de Espacios (Sara) - En proceso
+
+
+Hoy plan de contacto a asesores VEC para estrategia con clientes
+	identificar metas
+	pedirles reportes
+	
+Presentacion:
+NO Peligra el trabajo de nadie
+NO Quejas
+
+ESTABLECER METAS POR DIA Y SEMAFORIZAR
+
+Desesperado
+
+
+
+Héctor Francisco Alcalá Rojas - Hidalgo
+Pedro Javier García Martínez - Puebla
+Mercedes Solorio Luna - Sinaloa
+
+
+Contacto con todos los directores de Life, seguimiento se hara primera hora lunes, miercoles y viernes.
+Reunion MABE - les intereso mucho la propuesta de los venues para el 2024, tengo pendiente mandar info solicitada.
+Cotizacion Festival In Motion CEM - $495,000 MN
+Firma contrato evento CEM-$195,000MN
+
+Cotizaciones enviadas:
+Coparmex $47,000.00
+Femsa Digital $41,000.00
+
+
+
+
+Analisis Financiero a Diciembre
+
+Highlights del dia
+
+Paso 1: Identifica entre tus contactos la necesidad de un espacio
+Paso 2: Si tu contacto está interesado, dirígete a la plataforma de EventPro y solicita la 
+reservación del espacio.
+Paso 3: Si tu contacto confirma su interés, solicítales una cotización.
+Paso 4: El equipo de TecVenues enviará por correo y/o WhatsApp la cotización en un lapso de 24 hrs.
+
+
+VEC
+CDMX Listo
+Norte Listo
+Centro Listo
+
+
+8,378,249 
+
+
+firmas HPIS
+Hernesto Calvillo
+Director de iniciativas estrategicas y secundarias
+
+Jordi Espinoza Puig
+Director General Retail y Venues
+
+
+
+
+indicadores de uso y satisfaccion
+
+
+Rebeca Carranza	$196,000.00	Organizadores de eventos	Gerardo
+
+
+
+NIC
+
+Claudia Lopez
+Aula Campus MTY
+3 dias 
+$27000
+
+
+
+
+
+Revision disponibilidad cancha para Nico Sanchez (Rayados)
+Separacion de fechas para concierto en agosto 2024. 
+Envio layout estadio Festival Color - diciembre 2023. MTY
+Revision dispnibilidad clinica soccer CH5. MTY
+Cotizacion clinicas NFL - CEM o CCM 
+Primer contacto con RH Nestle 
+Cotizacion Claudia Lopez - $27K
+Solicitud OCESA(Gerardo) - Merch para directivos, informacion evento navideño y posible evento Campus GDL.
+
+
+LiFE
+Viernes 22 de Sep 
+
+
+
+
+
+Correo con informacion para addendum a Legal (Gera) - FInalizado
+Llamada con Dinora Apodaca Group para ofertas espacios (Gera) - Finalizado
+Envio reporte Ley anti lavado (Gera) - Finalizado
+
+
+Activacion VEC whatsapp (Gil) - Finalizado
+Activacion LiFE whatsapp (Gerardo) - 
+
+Sesion con AMEX (Gil) - Finalizado
+
+Llamada con Dinora Apodaca Group para ofertas espacios (Gera) - Finalizado
+Envio reporte Ley anti lavado (Gera) - Finalizado
+Contacto con Manuel Aldrete via Whatsapp (Sara) - Finalizado
+Kits Ocesa (Gera) - En proceso
+Pipeline de eventos confirmados y posibles (Daniel/Gerardo/Gil) - En proceso
+Contacto a Clelia Hernandez (Sara) - No atendio la llamada
+Correo con informacion para addendum a Legal (Gera) - Finalizado
+
+Correo de contacto a Coyote Harley Davidson (Sara) - Finalizado
+Correo de contacto a Toyota Lidavista (Sara) - Finalizado
+Correo de contacto a Audi Valle (Sara) - Finalizado
+Correo de contacto a Farmacias del ahorro (Sara) - Finalizado
+llamada a Arca Continental (Sara) - Finalizado
+Yolanda lozano Arca
+
+
+Correo de contacto a HEB (Sara) - Finalizado
+Correo de contacto a Envia Flores (Sara) - Finalizado
+Inmail LinkedIn Salvador Garza (Sara) - Finalizado
+
+cd juarez
+salon 300 personas
+gimnasio 
+no tiene sonido
+por separado
+pueden limitarlo por mampara
+
+
+empresario tentativo conferencia
+
+quien autoriza? deberia ser autorizado por el dueño del espacio o el que reservo
+justificaion
+impacto
+
+calendario predefinido de actividades
+
+
+
+
+
+
+Monterrey
+PrepaTec Eugenio Garza Lagüera
+EGADE
+CEM
+CCM
+Guadalajara
+Toluca
+Leon
+Laguna
+SLP
+
+
+
+
+
+
+junta cada viernes con Lalo, Jaime, Jordi y Hernan y nosotros obvio
+pipeline
+que estamos haciendo para generar leads?
+
+
+
+
+nomas LiFE
+
+activasion LiFE
+pedir que equipos
+
+
+
+
+Parrilla de contenido para redes sociales
+
+
+genearar un reporte
+
+lookerstudio
+
+el reporte con victor
+
+cruce? manual entre ventas y salesforce
+
+
+
+AstraZeneca Santa Fe Valor aprox. $65000 VEC
+Unilever Santa Fe Valor aprox. $75000 DSO
+Encuentro de endodoncia Puebla abril Valor aprox. $450000  VEC
+
+
+
+Jesus Almaguer refiere
+Agencia 
+Parrillada
+Prepa Santa Catarina
+$25000
+banregio
+
+
+Sara Emma Quiroga Rodriguez sara.quiroga@raspberry.mx
+Gilberto Luna Padilla gilberto.luna@nic.mx
+
+ccong ags 600
+
+Stadium "Estadio Banorte":
+
+$450000 mxn for event day
+$225000 mxn for setup day
+Concerts:
+•	$1.8M mxn / 7 days (including event day and setup)
+
+Conference Room "Sala Borregos":
+
+•	4 hours - $30,200 mxn
+•	8 hours - $42,800 mxn
+•	12 hours - $50,100 mxn
+
+"Borregos" Sport Center:
+
+•	4 hours - $4,400 mxn
+•	8 hours - $7,200 mxn
+•	12 hour - $11,400 mxn
+
+"Auditorio Luis Elizondo":
+$135,000 mxn for event day
+$67,500 mxn for setup day
+
+
+I hope this information is useful to you. If you need anything else, please let me know.
+
+
+
+Sesion LiFE Teressa Laguna
+
+
+
+José González Jiménez
+Laura Alvarez Benítez
+Isaac Montoya Soto
+Cesar Aguilar Herrera
+Carlos Mercadillo Rojo
+
+
+
+
+
+
+Dia: 27 de octubre
+Hora: 8:30 a 10:30
+Venue: Terraza cemex
+Contacto: Sara Quiroga
+Nombre: Desayuno Cluster de turismo
+
+
+
+
+
+
+
+
+
+
+
+Omar Serna - Proshow
+Aliber Carrera - Connector Agency
+Hector Lopez - Farmacias Benavides
+Chuy García - Chubb
+Jessica Gonzalez - Mahle
+Jonatan Vergara - SIGMA
+Lula Lagunez-JAVER
+
+
+
+
+
+Ene-Jun (real)
+ 
+ 2,198,064 
+
+
+
+Aula
+
+Precio Base por 4Hrs:
+1500
+(El precio puede variar dependiendo la configuracion y el tiempo)
+
+
+Fecha: 24 Octubre
+Horario: 09:00 - 20:00
+
+
+
+
+kick off 14 de nov
+
+
+1. pedirle a carrie
+2. agregar precios
+3. tecgpt
+
+
+auditorio 80p $25000
+
+
+
+
+
+
+
+
+mty Carrier $185000
+$
+
+
+
+$6,709,999.00 
+
+
+base 4hrs*
+/dia*
+
+
+
+Enviar wasap con info
+SERVICIOS INTEGRALES DE CONSULTORIA  Y DESARROLLO DE NEGOCIOS EXYLYS, S
+Carlos Ibarra	
+8118018098
+carlos@rocketfarm.com
+
+
+Seguimiento leads LinkedIn (Sara):
+Damaris Lizarraga - Oxxo
+Luis Romero - Conference Management
+
+Flyer Palcos Luis Miguel (Sara) - Finalizado
+
+
+
+Centro de Congresos Laguna - $160K
+Centro de congresos Queretaro - $52 K
+Centro de Congresos Mty - $72K
+
+
+
+
+Leads Heroes(Gil):
+Seguimiento Office Pro Center
+
+Contacto con 2 champions VEC:
+Leon 
+Irapuato
+
+Seguimiento a cotizaciones
+Carrier
+Puebla
+Aztra Zeneca
+
+Seguimiento Flash MTY(Gil) - Finalizado
+
+
+
+
+Solicitar fotos de campus chicos, para buscar leads
+Mucho seguimiento de los campus chicos: diario, proveedores
+Auditoría de espacios: Lalo
+	Tener los títulos de los eventos
+Sacar reporte de disponibilidad de todos los espacios
+Probar terraza para after party: Jordi manda correo, cc Hernán
+Gera coordinarse con Jordi, para ver si le marcan a Astrid
+
+
+Contacto con champion DSO:
+obregon
+chi
+ags
+
+
+Sesión con Conference Management (Sara) - Finalizado
+Solicitud de fotos a DSO´s (Sara) - Finalizado
+Sesión con Shel-Ha agendada (sara) - Finalizado
+Sesión de página web para actualización agendada (Sara) - Finalizado
+Parrilla de contenido mensual(Sara) - en proceso
+Invitación para Kickoff 25 octubre (Sara) - en proceso
+Cotizacion Fundidores campus MTY (gerardo) - Finalizado - Finalizado
+Envio de listado pros/contras de ricky martin para LM (Gerardo)- Finalizado
+Primer contacto con Cemex para evento Centro de congresos (Gerardo) - Finalizado
+Envio de informacion palcos a contactos y empresas potenciales(Gerardo) - Finalizado
+Sesion con Luis Pascual acerca de iniciativas (Cecilia) - Finalizado
+Roberto Morales - compartira BD de proveedores locales
+
+
+
+
+
+ruth palacios nivel 2
+liz rodriguez nic
+
+
+Identifica la necesidad de tu cliente y/o contacto
+ a la plataforma de EventPro y solicita la reservación del espacio
+
+
+Registra la solicitud del espacio en EventPro
+
+
+Detectar la nueva solicitud en eventPro
+
+El Champion/DSO informa a tec venues de nueva solicitud
+
+Generar la cotizacion en un lapso de 24 hrs
+
+TecVenues recopilará sus datos para darlo de alta como nuevo cliente
+
+Elaborar los documentos 
+Cierre de temas adminitrativos
+
+
+
+Identifica el organizador del evento y consulta la viabilidad de poder cambiar su reserva.
+
+
+
+
+560k MLS Campus GDL Gerardo
+
+
+
+Eventpro:
+proceso de visitas con embajadores
+auxiliar administativo revisa nuevas solicitudes en eventpro
+todo nuevo lead debe ser documentado en salesforce
+todo debe ir al ceco de venues
+cotizaciones, quien las hace?
+
+Presentacion carrier EGADE (Gil) - Finalizado
+Seguimiento Cotizacion GM (Gil) - Finalizado
+Seguimiento contacto flash (Gil) - Finalizado
+Nuevo lead VEC Construrama MTY (Gil) - En proceso 
+
+
+
+
+
+
+
+
+
+CEM, CCM, Puebla, Hidalgo, Cuernavaca, Sinaloa, Colima, Santa Fe, Laguna, Saltillo, Querétaro, San Luis Potosi, Toluca y Metepec, Tampico, Ciudad Juarez, Irapuato, Chiapas, Ciudad Obregón, Guadalajara, León, Morelia, Aguascalientes, Hermosillo , Chihuahua, Zacatecas
+
+
+
+
+
+
+Gilberto:
+
+Hidalgo
+Cuernavaca
+Sinaloa
+Colima
+Laguna
+Saltillo
+San Luis Potosi
+Toluca y Metepec
+Tampico
+Ciudad Juarez
+
+Nueva Ejecutivo de eventos:
+
+Irapuato
+Chiapas
+Ciudad Obregón
+León
+Morelia
+Aguascalientes
+Hermosillo
+Chihuahua
+Zacatecas
+Santa Fe
+
+
+Gilberto:
+
+Hidalgo
+Cuernavaca
+Sinaloa
+Colima
+Laguna
+Saltillo
+San Luis Potosi
+Toluca y Metepec
+Tampico
+Ciudad Juarez
+
+Nueva Ejecutivo de eventos:
+
+Irapuato
+Chiapas
+Ciudad Obregón
+León
+Morelia
+Aguascalientes
+Hermosillo
+Chihuahua
+Zacatecas
+Santa Fe
+
+
+
+
+
+Centro de Congresos Sala 1 	200
+Centro de Congresos Sala 2 	200
+Centro de Congresos Sala 3	500
+
+
+Seguimiento NEMAK MTY (Gil) - En proceso 
+Sesion con DSO region Occidente (Gil) - En proceso
+
+
+grecia
+
+
+
+Admin_045531
+eventpro123
+
+
+
+Seguimiento GM $405k
+
+Seguimiento decision FEMSA
+Seguimiento secision Astra Zeneca
+
+
+Admin_045531
+eventpro$1
+
+
+
+
+
+
+
+g 10
+m 15
+C 25
+
+
+
+
+
+373
+9
+
+1
+17
+14
+14
+3
+47
+3
+
+
+
+
+
+Nuevo Lead TV (Gil)
+Academia Rayados Chipinque - Prepa Santa Catarina
+
+
+
+Sí, estos son los puntos que qieremos cubrir:
+-Estrategia
+-TecVenues sin gran detalle
+-Extra: Club 16, Akky Consulting
+-Compensación: ejemplos claros
+
+
+
+
+
+
+$6,938,999.00 
+$8,388,999.00
+
+
+
+
+
+
+12
+59
+44
+118
+14
+37
+14
+5
+157
+
+
+
+Seguimiento Palcos Pendientes LM (Gera)
+SC Johnson 16
+Cliente Particular 16
+Cliente Particular 3
+
+
+
+
+
+
+"Agile SAP" de Janet Salmon y Ole Matzura
+ERP: Making It Happen - The Implementers' Guide to Success with Enterprise Resource Planning
+Test Driven Development: By Example
+Behavior-Driven Development with Cucumber
+BPMN Method and Style
+El Libro del BPM y la Transformación Digital: Gestión, Automatización e Inteligencia de Procesos (BPM) (BPM - Business Process Management)
+
+
+
+
+
+
+
+https://tecmx-my.sharepoint.com/:v:/g/personal/eduardo_gonzalez_tec_mx/EZJ2i5JWcUtAqQQJdfHWBMYBYqK0Uo9RispqnMfzvyTlYg
+https://connect.eventpro.net/ep/client/DB045531
+
+
+
+Envio de procesos a Johana Tec Services
+
+
+
+
+1.	Inventario de venues del Tec de Monterrey completo (fotos, descripciones, PRECIOS, disponibilidad)
+2.	Inventario de venues del Tecmilenio completo (fotos, descripciones, PRECIOS, disponibilidad)
+3.	Inventario de venues del HPIS completo (fotos, descripciones, PRECIOS, disponibilidad)
+4.	Inventario de inmuebles para renta de mediano/largo plazo – QUE NO SERAN VENUES
+5.	Potencial de negocio
+6.	Reporte de resultados y pipeline diario – SE TIENE QUE ENVIAR
+7.	Plan de trabajo con los diferentes equipos internos (VEC, LiFE, Operaciones, TecStore y TecServices) – rituales, juntas, etc
+8.	Plan de trabajo para la fase 2
+
+
+
+
+2 cotizaciones para SLP
+35 mil
+48 mil
+
+
+
+
+
+
+
+
+1.	Inventario de venues del Tec de Monterrey completo (fotos, descripciones, PRECIOS, disponibilidad)
+2.	Inventario de venues del Tecmilenio completo (fotos, descripciones, PRECIOS, disponibilidad)
+3.	Inventario de venues del HPIS completo (fotos, descripciones, PRECIOS, disponibilidad)
+4.	Inventario de inmuebles para renta de mediano/largo plazo – QUE NO SERAN VENUES
+5.	Potencial de negocio 
+6.	Reporte de resultados y pipeline diario – SE TIENE QUE ENVIAR
+7.	Plan de trabajo con los diferentes equipos internos (VEC, LiFE, Operaciones, TecStore y TecServices) – rituales, juntas, etc
+8.	Plan de trabajo para la fase 2
+o	Levantamiento de venues especializados (talleres, laboratorios, estaciones de radio, etc)
+o	Prospectos para acuerdos con empresas para “rentas” nacionales – FEMSA, Coppel, Soriana, Farmacias del Ahorro, Farmacias Benavides, Kumon, etc
+
+caracter especial
+🀰
+
+
+131000
+
+ch 40000+35000
+ira 3400
+cem 196000
+COBR 12500
+
+
+CeCo A00, irapuato en el año: 272000
+
+Obregon: 44500
+61000
+meta 80000
+empresas:
+tepeyac 16500
+Caterpillar
+asociacion de empresarios sonorenses auditorio 12500
+
+
+
+
+
+Admin_045531
+venues$123
+
+Visitas a campus Gera
+Palcos
+Comercial operativa
+
+
+
+user: LSanchez_045531
+password: venues$123
+
+Pendiente declarar Landing y Asesores de venta por parte de Begoña para el miercoles
+
+
+Cambios contrato con el Flash
+Seguimiento Rayados Santa Catarina
+Nueva Solicitud Sorteos Tec Posada
+DSO Zona Norte
+
+
+
+
+
+
+
+$2,997,038,307.86
+$1,522,828,559.50
+$994,441,450.83
+
+
+
+Ejercicio calculado a partir del precio sugerido y la disponibilidad obtenida de EventPro.
+Los espacios sin eventos confirmados se tomaron a partir de la disponibilidad sugerida por el DSO
+
+
+andreaguerra@tec.mx
+mariel.garza@tec.mx
+
+
+ya tenemos el qualtrics de tec milenio
+
+
+venues@info.tec.mx
+fH1%hG1$iD1$
+
+11 a 1 
+28 de nov
+biblioteca
+brunch
+
+Synthesia
+
+jorge.a.esquivel.c@nic.mx
+ProcessInnovation1!
+app.synthesia.io/#/
+
+
+Luisa Zamora Marín
+
+
+Geovannina Chavez Meza
+
+
+Bibiana Alvarado Esponda
+Saúl Elizondo Ochoa
+
+
+Bibiana Alvarado Esponda
+Saúl Elizondo Ochoa
+Laura Escobedo Torres
+Sonia Cueto Talavera
+Gabriel Domene Suárez
+
+
+
+
+Karla Castro Pérez
+Ricardo Cueva Acosta
+Adrián Castillo Sosa
+
+
+1.Levantamiento de venues especializados (talleres, laboratorios, estaciones de radio, etc)
+2.Prospectos para acuerdos con empresas para “rentas” nacionales – FEMSA, Coppel, Soriana, Farmacias del Ahorro, Farmacias Benavides, Kumon, etc
+
+
+
+
+
+Materiales:
+- Kits para el asesor
+- Proceso Comercial Venues
+- Guia y enlace a EventPro
+- Lista de contactos DSO
+- Lista de asesores de ventas
+- Lista de directores de campus
+- Pipeline actualizado por campus
+- Salesforce
+
+Establecer responsable por campus
+Priorizar campus sin leads a partir del pipeline
+1. Correo de presentacion - Personalizado, Comentale tu rol en TecVenues (importante conocer el rol del champion y el proceso de venues)
+2. Sesion DSO y Landing (Incluir a Juan eduardo como punto de contacto entre Champion y TecVenues)
+3. Sesion con asesores Life y Vec por campus para (Conocer a los asesores a partir del directorio de asesores de ventas)
+4. Establecer canales de comunicacion y ceremonias (Grupo de whatsapp, correos, importante incluir el pipeline y numero de eventos por campus)
+5. Seguimiento a avance y pipeline en ceremonias (Revisar el pipeline por campus a partir de Salesforce)
+
+
+1. Establecer responsable por campus
+2. Priorizar campus sin leads a partir del pipeline
+3. Correo de presentacion enviado por Gerardo/Gilberto, se debe pedir la sesion de sincronizacion con Champion DSO.
+4. Sesion de coordinacion DSO y Landing (Presentacion formal y comunicarle tu rol)
+5. Establecer canal de comunicacion, proceso a seguir, cadencias y ceremonias con Champion DSO
+6. Entender la necesidad y apoyar (Tiene clientes?, Que historial de eventos?, en caso de no tenerlo proporcionarles bases de datos para seguimiento)
+7. Establecer formato de informacion (Pipeline, Leads nuevos, Eventos caidos, eventos confirmados)
+8. Conocer asesores de ventas de los distintos brazos conerciales
+9. Seguimiento a avance y pipeline en ceremonias (Revisar el pipeline por campus a partir de Salesforce)
+
+
+
+
+
+
+
+
+
+SOcios formadores
+sin contacto
+pedir 
+son 2000
+cecy es el punto de contacto Judith Soto
+mas acotado
+
+
+Proveedores locales 9000
+pendinte roberto morales
+
+
+gestionar reventa de clientes que ya contrataron venues
+
+
+
+
+
+
+planes para abordar prioridades
+
+
+
+
+
+4 Palcos Vendidos leads TV
+
+user:
+password:
+
+-Javier Antonio Chairez Ibarra	javierchairez@highpointschool.mx
+Jchairez
+eventpro$1
+
+-Selene Mora Sánchez 	mora.selene@highpointschool.mx
+SMora
+eventpro$1
+
+Jesùs Manuel Escontrias Delgado	jesus.escontrias@highpointschool.mx
+JEscontrias
+eventpro$1
+
+Julio César Jáuregui Rodríguez	julio.jauregui@highpointschool.mx
+JJauregui
+eventpro$1
+
+VICTOR PALOMINO	victor.palomino@highpointschool.mx
+VPalomino
+eventpro$1
+
+Almendra Maria Montserrat Olguín Amezcua	almendraolguin@highpointschool.mx
+AOlguin
+eventpro$1
+
+Elvira Calderón Biebrich 	Ecalderon@highpointschool.mx
+ECalderon
+eventpro$1
+
+Cinthia Esther Ramos Mulino 	Cramos@highpointschool.mx 
+Cramos
+eventpro$1
+
+YA - KARLA MARIA ROBLES MORENO	karla.robles@highpointschool.mx
+KRobles
+eventpro$1
+
+Junta operativa FLASH
+Junta operativa GM
+OCV Campeonato Norte Centroamericano y del Caribe 2025, buscan pista certificada, jaulas de lanzamiento, pista para caminata, espacio para caminata de campo traviesa etc
+Seguimiento posibles Posadas AXTEL
+Cotización ASTRAZeneca
+
+
+
+Sinaloa, Tampico, Colima, Chiapas, Toluca, Saltillo, Laguna, Hidalgo
+
+
+
+MTY 103 pesos
+3 otros campus
+
+460860 ingreso 
+
+
+
+13.8M
+
+
+Plan TecVenues Campus
+
+
+
+
+
+
+Claudia Melissa Barbosa Gonzalez 
+Juan Manuel Osorio 
+Luis Fernando González Sánchez
+Erika Adriana Rebolledo Bautista 
+Yazmín Magdalena Guzmán Santiago
+
+
+
+
+
+Rol	Asesor
+Ejectuvio de eventos masivos
+Ejectuvio de eventos corporativos	Gilberto Luna Padilla
+Ejectuvio de eventos corporativos	Maria Elvia Garza
+Asesor administrativo	Bianca Yanet Martinez
+Soporte EventPro	Daniel Beristain Flores
+Champion DSO	Jesús Felipe Varela Hidrogo
+Champion DSO	Karla Rivera
+Coordinador LiFE	Fernando Moises Avila
+Asesor VEC	Ortega David Leith Ramírez
+
+
+Ajustes cotización Colegio Saltillo
+Junta Seguimiento HEROES TEC VENTURES
+
+base de datos de akky etc que no son proveedores de tec ventures
+
+
+
+•	$61 en rentas este año 
+•	Sus clientes son en mayoria EXATEC
+•	Ocupa apoyo administrativo y formatoas de cotizacion
+•	Le gustaria tener acompañamiento en sesiones con clientes
+•	Se pondra en contacto con el equipo de venues
+
+
+
+
+
+Redactar el correo para Lupita
+priorizar listado de espacios y caracteristicas
+Sesion con Jordi para colaboraciones y alianzas TecStore 
+
+
+
+
+
+Jaqueline Rodríguez Chávez
+Bernardette Baños Espínola
+Emmanuel Jiménez Ángeles
+Sergio Gómez Sánchez
+
+
+
+
+
+Capacitacion maribel Carrillo Zacatecas
+Zacatecas	Maribel Carrillo	maribelcarrillo@highpointschool.mx
+MCarrillo
+
+
+
+
+Cotizaciones 10 Nov:
+Gas Noel Campus Leon Diciembre- $20mil
+Proactive Campus Morelia Noviembre - $12.7mil
+
+
+
+
+Seguimiento avance champions DSO (Colima, Sinaloa, Lauguna, Tampico)
+Plan 24-28
+Cotizaciones semanales
+Visitas?
+Evento 
+
+
+No estan usando el habilitador para reservar
+
+
+Contactar a Campus Hermosillo para viabilidad de Arena Borregos
+Reunion para fundidores
+
+
+
+
+
+en clusters
+149
+
+
+
+
+
+Instituto Boston $135mil - MTY
+
+
+
+tecmilenio
+Programar sesion de sintonizacion con Lalo
+Asegurar que los espacios sean correctos para subirlos a eventpro
+Programar una capacitacion con Eventpro
+pendiente educacion abierta
+
+Agendas
+
+
+HPIS 4/9 espacios
+
+
+
+Será que no me amas
+Amor, amor, amor
+Suave
+Culpable o no
+Dormir contigo
+Te necesito
+Hasta que me olvides
+Dame
+No me platiques más / Usted / La puerta / La barca / Inolvidable
+Por debajo de la mesa / No sé tú
+Como yo te amé / Solamente una vez / Somos novios / Todo y nada / Nosotros
+Por una cabeza / Volver / Uno / El día que me quieras
+Sonríe
+Come Fly With Me
+Un hombre busca una mujer / Cuestión de piel / Oro de ley
+Fría como el viento / Tengo todo excepto a ti / Entrégate
+La fiesta del mariachi
+El Balajú / Huapango
+Si nos dejan
+La Bikina
+La media vuelta
+Quiero / Qué nivel de mujer / Mujer de fuego
+No me puedes dejar así / Palabra de honor / La incondicional
+Te propongo esta noche
+Ahora te puedes marchar / La chica del bikini azul / Isabel / Cuando calienta el sol
+Cucurrucucú paloma
+
+
+
+Luz ma
+
+Guia Rapida para EventPro
+
+
+072580010145741432
+
+
+Rentas mediano y Largo Plazo
+
+Fase 1 - Diciembre 2023
+actores: 
+Alejandra Nerio - TRES
+Cynthia Esquivel - Portafolio patrimonial
+
+
+
+Revisar el invetario
+Consolidado de inmuebles (5 fuentes de informacion)
+Autorizacion de espacios con el Campus
+Homologacion del proceso de Rentas MyL
+Pagina Web
+Caso de negocio
+Toque de base Semanal Helmut
+Toque de base quincenal Numa
+Modulos CRM para Rentras MyL
+Retomar Clientes potenciales TRES
+
+
+
+
+1. El asistente al palco deben llegar al Acceso A (“Puerta de cortesias”)
+2. El asistente debe tener su boleto especifico de palco y su pulsera correspondiente al dia
+Martes 14 Nov - Amarillo
+Miercoles 15 Nov - Verde
+Jueves 16 Nov - Azul
+3. El asistente revisa y confirma la seccion a la cual deben acceder
+4. De manera ordenada se hace una fila frente al reesponable de la lectura de boletos
+5. El asistente entrega el boleto al responsable de la boletera
+6. El responsable de boletera acredita el acceso
+7. El responsable de seguridad realiza la inspeccion al asistente
+8. El Host 1 guia al asistente hacia la zona VIP a traves de las escaleras
+9. El Host 2 recibe al asistente en la Zona VIP y lo guia hacia el asiento indicado en el boleto
+
+tienen estacionamiento muy amplio
+buscaban tener un cafe
+quieren tener un cajero
+
+eventos SEP para febrero
+
+5 eventos las ultimas de diciembre
+
+
+julio dic proyeccion 520
+
+
+
+
+ana.cristina.lozano@tec.mx
+
+
+Nuevo lead AGS
+Evento de ciencias
+
+
+
+eventpro
+
+
+
+
+
+54
+114
+15
+
+cierre del mes
+desglose de gera y gil
+
+
+
+mandar sesion jueves tecmilenio
+
+Ordenar venues de menor a mayor
+corregir numero de visitantes en la pagina
+Agendar reunion con Leydi para ver justificacion del cambio de la pagina
+
+
+
+
+
+Consolidado de inmuebles	Pagina Web	Autorizacion de espacios con el Campus	Homologacion del proceso de Rentas MyL
+
+
+comunicar descuentos alumnos flash
+
+
+visita a campus cdmx Astra zeneca
+Oficina de Convenciones y Visitantes de Monterrey para solicitarte la información de los espacios TEC para eventos, nos interesa mucho poder incluirlos en la Guía. Ya estamos cerrando con la información.
+
+
+
+
+
+
+llamada 
+Gremio Veterinarios Campus COB
+Eventos posibles Enero
+
+1 Renta proxima semana
+SISAT Consejero de campus
+Gremio Veterinarios
+
+
+
+Ejectuvio de eventos: coporativos Gilberto Luna gilberto.luna@nic.mx 81 1080 5458
+Ejectuvio de eventos: sociales y espectaculos Gerardo Rodríguez gjrodriguez@tec.mx 81 1910 9048
+Ejectuvio de eventos: coporativos Maria Elvia Garza mariel.garza@tec.mx 81 8021 5083
+Asesor administrativo: Bianca Yanet Martinez bianca.martinez@tec.mx 81 2466 3333
+Soporte Plataforma EventPro: Daniel Beristain Flores daniel.beristain@nic.mx 81 1787 4207
+
+
+
+NEMAK $55mil
+Cotizacion FIFA 
+Cotizacion Jabil Chihuahua $35000
+
+
+
+Gerardo
+Gilberto
+Mariel
+Yanet
+Karlo
+Daniel
+
+
+
+Reporte:
+Ingreso
+Cuentas por pagar
+
+Debemos desglosar el ingreso, por piline, lo ingresado por venues(Yanet), lo confirmado por finanzas (Norma)
+
+Usar mas salesforce
+
+Lo bueno:
+Disposicion del equipo
+Actitud
+Aceptacion de la situacion
+Espiritu de equipo
+
+Compromisos:
+Transparentar el trabajo
+Sesion de actualizacion de salesforce diaria con el equipo
+Ajustar el reporte para visualizar los ingresos cobrados vs los ingresos confirmados por finanzas
+Cercania con campus para ajustar la planeacion
+Recapitulacion de los eventos no realizados y su justificacion
+Compromiso de compartir stoppers en cuanto lo detectemos
+Solicitudes a traves de EventPro
+Auditoria del calendario de eventpro
+
+Lo malo:
+Personal
+Estamos vendiendo agenda, solo lo poco que esta disponible
+Procesos burocraticos administrativosos
+Estilo de liderazgo
+
+
+
+
+Como abordar a un cliente que no se puede
+
+
+
+
+
+9 al 11 de enero
+
+
+
+
+Festival navideño Kinder
+Presentacion de academia de danza
+Presentacion de academia de danza
+Colegio 
+Bazar 58*2500
+
+
+meta junio 23 a junio 24
+400mil
+
+julio a diciembre: 500mil
+ene - dic: 650 mil
+
+
+
+
+
+
+
+
+
+
+Fernando Moises Avila Ortega	moisesortega@tec.mx
+David	Leith	Ramírez DAVID.LEITH@TEC.MX	80832 4255
+
+
+
+
+Recientementer agregamos a "HighPoint Internatioinal School"(HPIS) al listado de facilidades,
+pero tenemos un problema, al generar un "New Booking" en la web nodemos ver dicho listado en el campo "Location", ustedes nos podrian ayudar con este detalle?
+
+
+We recently added "HighPoint International School" (HPIS) to our list of facilities. However, we have encountered an issue where, upon generating a "New Booking" on the website, we are unable to view this facility in the "Location" field.
+
+Could you please assist us in resolving this matter at your earliest convenience? Your prompt attention to this detail is highly appreciated.
+
+
+
+
+Abordar campus para formato de pagina web
+
+
+CDMX y AGS
+Sinaloa, Edo Mex
+
+Documento relacion comercial-operativa zona VIP
+Estacionamientos
+Accesos
+invitados
+Relacion con ticketmaster
+Entrega de boletos
+Uso de la terraza
+Venta de Alcohol
+
+
+Reservado 2 semanas para concierto the killers (Playoff juvenil)
+Moraima
+
+Fecha the killers
+
+
+Viabilidad de activasiones Monster Energy
+
+
+
+user: RSandoval
+password: Eventpro$123
+
+
+
+
+proceso
+tip ode renta (Solo renta, Paquete Servicio COmpleto, donde aplica y donde no)
+quien atiende que?
+
+
+
+
+•	Kinder Ekos – 1 de diciembre - $41,500.00
+•	Genix Dance Studio – 3 de diciembre - $39,000.00
+•	Academia de Danza Magart – 10 de diciembre - $69,700.00
+•	Colegio Engelmann – 12 de diciembre - $44,000.00
+•	Bazar Tec Holidays Edition – 14 y 15 de diciembre – $180,000.00 (ingreso aproximado).
+
+
+18 de Enero
+Monterrey
+Sisamex
+Andrea Villa
+
+
+
+Ciudad JUarez
+
+
+
+
+Venue
+Nombre
+Location
+DESCRIPCION
+Capacidad máxima
+Precio
+
+
+ITESM 
+ARENA BORREGOS
+Hermosillo, Sonora.
+Arena deportiva con escenario. No tiene instalación audiovisual ni sillas. Refrigerable
+1000
+Sin referencia
+
+
+
+ITESM 
+Salón de Congresos
+Hermosillo, Sonora.
+Salón de congresos, alfombrado, con instalación audiovisual, 300 sillas, Refrigerado.
+500
+Sin referencia
+
+
+
+
+CURP
+RFC (Constancia de Situación Fiscal)
+Alta en el IMSS
+Acta de Nacimiento
+Acta de Matrimonio (solo si aplica)
+Acta de Nacimiento de cónyuge e hijos (solo si aplica)
+Credencial de Elector
+Comprobante de Domicilio (Asegúrate de que sea tu domicilio actual pues será usado para el envío de tu kit de ingreso y contrato).
+Comprobante de Estudios (Título, Cédula o Carta Pasante)
+Aviso para Retención de Descuentos INFONAVIT (Necesario en caso de tener préstamo por parte de INFONAVIT)
+Fotografía tuya con fondo blanco en formato PNG | JPG, para tu gafete también será visible en organigrama
+
+
+corte el jueves
+el viernes toque de base
+
+
+Util bajar la informacion a la areas involucradas
+
+
+
+50mil rentas de cancha de padel
+
+
+Dic-Ene: Plan
+
+Feb-Marzo: Visitas para propuestas de franjas etc etc
+
+checklist con 
+campus de todo
+rentas MyL plazo
+franjas
+venuesa
+tecmi
+clinicas
+kjhg¿
+
+
+
+
+
+
+
+Cotizacion $300mil Arena Borrego MX
+Congreso Testigos de Jehova Estadio Banorte 3 dias
+
+
+Plan mediano y largo plazo:
+No agregar Organizacion de eventos los proximos 24 meses
+Alianzas para gestionar espacios de otros espacios
+Proximos 24 meses:
+foco es vender
+Clasificar:
+alianzas coemrciales - ticketmaster ocesa
+Tener inventario completos de Tecmi y HPIS
+
+Agencia de eventos - NO
+
+meta 400M
+
+Quitar Comida
+Quitar diversificacion de negocios
+Añadir Feria del libro (Eventos, Centro de congresos movil)
+Quitar Filmaciones, bodas, etc (Organizarlas)
+
+
+
+
+Karen Garza Weir minerals MX 3 dias Sala Borregos
+
+
+
+Highlights:
+Contacto con Alejandra Torres para incluirla en el bunker
+Agendar sesion con Andres Sierra para enfoque de actividades actividades de Alejandra(Landing)
+Esquema de compensaciones
+
+Pendientes:
+Actualizacion de kits para el asesor
+Seguimiento a la alta de espacios por parte de los champions
+
+
+bobeda con informacion con el uso de suelo
+
+
+Eduardo 
+
+
+
+
+Sesion con raspberry Tecmi
+
+raspberry tecmi
+colaboradores - movimientos mensuales
+estudiantes - diferente etapas
+No de polizas anteriores vs actuales
+delta de monto de venta 
+metas
+
+
+
+
+Monterrey
+Puebla
+Hermosillo
+Nuevo Laredo
+Zapopan
+Reynosa
+
+
+pendiente confirmar los CeCos de tecmi
+
+
+
+
+
+
+
+
+
+
+Sesion con Fernando Lopez Viernes 4pm
+
+
+
+renta muy cara o mas larga que un par de dias
+menos de 100mil
+
+
+Karen Rodriguez
+
+b
+
+
+acelerar el tema:
+listas
+repsonsables
+verlos en una sesion presencial
+
+
+
+
+
+CQuezada	Eventpro$1
+	
+	
+	
+	
+	
+	
+DHerrera	Eventpro$1
+MGuadarrama	Eventpro$1adm
+Kurbina	Eventpro$1
+
+
+
+
+
+
+
+
+
+Buen dia compañeros
+
+Como bien saben estoy dejando mi puesto en la organizacion, pero no me gustaria despedirme sin antes agradecerles el tiempo asi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  
